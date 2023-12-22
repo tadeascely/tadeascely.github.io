@@ -6,7 +6,7 @@ A political polarization researcher.
 _Formerly_:
 - visiting researcher at **University of Vienna**
 
- ### Evidence-supported arguments (_in development_):
+**Evidence-supported arguments** (_in development_):
  - In Europe, Catholic countries are more divided on culture wars than Protestant countries
  - Radical right partisans are exceptionally inconsistent in political views, despite their extreme ideology
  - Belief constraint matters for partisan animosity; ideologues are more hated than others we disagree with
