@@ -9,3 +9,6 @@ _Formerly_:
  * In Europe, Catholic countries are more divided on culture wars than Protestant countries
  * Radical right partisans are exceptionally inconsistent in political views, despite their extreme ideology
  * Belief constraint matters for partisan animosity; ideologues are more hated than others we disagree with
+
+**Pre-registred**
+* [Everybody Hates An Ideologue?](https://osf.io/fgbma) _On the role of ideology in policy disagreement sources of polarization._
