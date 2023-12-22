@@ -1,4 +1,3 @@
-# Tadeas Cely
 A political polarization researcher.
 - Fulbright Fellow at Polarization Research Lab (based at **Dartmouth College**)
 - Research associate and PhD candidate at **Masaryk University**
