@@ -11,4 +11,4 @@ _Formerly_:
  * Belief constraint matters for partisan animosity; ideologues are more hated than others we disagree with
 
 **Pre-registred**
-* [Everybody Hates An Ideologue?](https://osf.io/fgbma) _On the role of ideology in policy disagreement sources of polarization._
+* [Everybody Hates An Ideologue?](https://osf.io/fgbma) _On the role of ideology in policy disagreement sources of partisan animosity._
