@@ -7,7 +7,7 @@ _Formerly_:
 
 **Findings**:
  * In Europe, opinion in Catholic countries is more divided by culture wars than in Protestant countries. This pattern is stable unlike the effect of development which faded over time. I conclude that culture wars may be more rooted in historical conflicts than previously assumed. [Preprint](https://osf.io/q3swd), [Descriptives](https://osf.io/znyph)
- * Radical right partisans are exceptionally inconsistent in political views, despite their extreme ideology ~~Preprint~~ (Soon), [Visualization](https://osf.io/9ekwf)
+ * Radical right partisans are exceptionally inconsistent in political views, despite their extreme ideology [Preprint] (https://osf.io/9457b), [Visualization](https://osf.io/9ekwf)
  * Belief constraint matters for partisan animosity; ideologues are more hated than others we disagree with ~~Preprint~~ (Soon), Pre-registration below
 
 **Pre-registred**
