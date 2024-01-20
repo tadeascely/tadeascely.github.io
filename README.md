@@ -11,4 +11,4 @@ _Formerly_:
  * Belief constraint matters for partisan animosity, but we mostly dislike different-minded ideologues. Similar-minded ideologues might be preferred over unopinionated people. Also, I show that policy disagreement along the main ideological line correlates more hatred than disagreement between people with eclectic beliefs. Therefore, I argue that hatred due to disagreement is more prevalent when mirroring predominant political conflict. ~~Preprint~~ (Spring 2024), Pre-registration below 
 
 **Pre-registred**
-* [Everybody Hates An Ideologue?](https://osf.io/fgbma) _On the role of ideology in policy disagreement sources of partisan animosity._
+* [Everybody Hates An Ideologue?](https://osf.io/xbts8) _On the role of ideology in policy disagreement sources of partisan animosity._
