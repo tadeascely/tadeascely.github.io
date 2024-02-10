@@ -1,7 +1,7 @@
 A political polarization researcher.
 * Fulbright Fellow at Polarization Research Lab (Stanford, UPenn, Dartmouth, based at **Dartmouth College**)
 * Research associate and PhD candidate at **Masaryk University**
-
+ 
 _Formerly_:
 * visiting researcher at **University of Vienna**
 
