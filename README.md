@@ -3,7 +3,7 @@ A political polarization researcher.
 * Research associate and PhD candidate at **Masaryk University**
  
 _Formerly_:
-* visiting researcher at **University of Vienna**
+* visiting researcher at **University of Vienna** 
 
 **Research (theses)**:
  * In Europe, opinion in Catholic countries is more divided by culture wars than in Protestant countries. This pattern is stable, unlike the effect of development, which fades over time. Culture wars may be more rooted in historical conflicts than previously assumed. [Preprint](https://osf.io/qgjnu), [Descriptives](https://osf.io/srxwj)
