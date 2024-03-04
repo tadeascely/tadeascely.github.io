@@ -1,4 +1,4 @@
-A political polarization researcher. [CV](tadeascely.github.io/Tadeáš_Celý___Curriculum_Vitae.pdf)
+A political polarization researcher. [CV](Tadeáš_Celý___Curriculum_Vitae.pdf)
 * Fulbright Fellow at Polarization Research Lab (Stanford, UPenn, Dartmouth, based at **Dartmouth College**)
 * Research associate and PhD candidate at **Masaryk University**
  
