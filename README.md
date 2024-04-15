@@ -12,4 +12,5 @@ _Formerly_:
 
 **Other Papers**:
 Democracy Erodes from the Bottom: Levels of Office, Norm Violations, and Party Defections, with *Marc Jacob, Yphtach Lelkes, and Sean Westwood*, *In progress*
+
 Making it Abstract, Making it Easier: Social Distance to Unfavorable Policies Decreases Issue Difficulty for Populist Voters, with *Roman Chytilek, and Michal Toth*, *Full Draft*
