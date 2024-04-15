@@ -11,6 +11,7 @@ _Formerly_:
  * In the last piece, I empirically differentiate between ideological and non-ideological policy disagreement. I show that both types stimulate a different kind of emotional response, because ideologues disagree not only on beliefs they observe, but also those which they can predict. Finally, I describe how ambivalence can also lead to substantial dislike.  ~~Preprint~~ (Summer 2024), *Currently conducting a follow-up study*
 
 **Other Papers**:
+
 Democracy Erodes from the Bottom: Levels of Office, Norm Violations, and Party Defections, with *Marc Jacob, Yphtach Lelkes, and Sean Westwood*, *In progress*
 
 Making it Abstract, Making it Easier: Social Distance to Unfavorable Policies Decreases Issue Difficulty for Populist Voters, with *Roman Chytilek, and Michal Toth*, *Full Draft*
