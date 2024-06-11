@@ -3,7 +3,7 @@ A political polarization researcher. [Document CV](Tadeáš_Celý___Curriculum_V
 * Research associate and PhD candidate at **Masaryk University**
   
 _Formerly_:
-* visiting researcher at **University of Vienna** 
+* visiting researcher at **University of Vienna**  
 
 **Dissertation (theses)**:
  * In Europe, opinion in Catholic countries is more divided by culture wars than in Protestant countries. This pattern is stable, unlike the effect of development, which fades over time. Delving into this result, I demonstrate a pattern of generational replacement in less developed contexts, which has shaped the diminishing effect of development. Culture wars may be more rooted in historical conflicts than previously assumed. [Preprint](https://osf.io/preprints/osf/cu82k), [Supplement](https://osf.io/eay9j), *Under Review*
