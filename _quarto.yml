@@ -7,11 +7,15 @@ website:
 
   navbar:
 
+    pinned: true
+
     left:
       - text: "Home"
         href: front.qmd
       - text: "Research"
         href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
         
     right:
        - text: "{{< iconify bi github size=1.5em title='GitHub' >}}"
@@ -20,8 +24,8 @@ website:
        - text: "{{< iconify bi twitter size=1.5em title='Twitter' >}}"
          href: https://x.com/CelyTadeas
          rel: me
-
-
+    
+     
 format:
   html:
     theme: sandstone

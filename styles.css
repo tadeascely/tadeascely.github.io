@@ -1,1 +1,19 @@
-/* css styles */
+/* Change the color of hyperlinks in their default state */
+a {
+  color: #3b4c7b; /* Navy color */
+}
+
+/* Change the color of hyperlinks on hover (slightly lighter navy) */
+a:hover {
+  color: #5063a6; /* Slightly lighter navy */
+}
+
+/* Change the color of hyperlinks when focused (slightly darker navy) */
+a:focus {
+  color: #2a3d75; /* Slightly darker navy */
+}
+
+/* Change the color of hyperlinks when active (sky blue) */
+a:active {
+  color: #87ceeb; /* Sky blue */
+}

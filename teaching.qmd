@@ -1,0 +1,9 @@
+---
+title: "Research"
+---
+
+This site contains research
+
+```{r}
+1 + 1
+```
