@@ -2,15 +2,14 @@ project:
   type: website
   output-dir: docs
 
-freeze: true
-
 website:
   title: "Tadeas Cely"
+
   navbar:
 
     left:
       - text: "Home"
-        href: index.qmd
+        href: front.qmd
       - text: "Research"
         href: research.qmd
         

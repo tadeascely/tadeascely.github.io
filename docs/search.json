@@ -1,23 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tadeas Cely",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "pictures/blank.html",
-    "href": "pictures/blank.html",
-    "title": "Tadeas Cely",
-    "section": "",
-    "text": "Blank"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
     "text": "This site contains research\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "front.html",
+    "href": "front.html",
+    "title": "Tadeas Cely",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
