@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "Research"
 ---
 
-About this site
+This site contains research
 
 ```{r}
 1 + 1
