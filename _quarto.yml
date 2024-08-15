@@ -8,6 +8,8 @@ website:
     
     pinned: true
 
+    freeze: true
+
     left:
       - href: index.qmd
         text: Home
