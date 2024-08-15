@@ -11,8 +11,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-    
+      - href: research.qmd
+        text: Research
+        
     right:
        - text: "{{< iconify bi github size=1.5em title='GitHub' >}}"
          href: https://github.com/tadeascely
