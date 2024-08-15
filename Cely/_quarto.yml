@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Tadeas Cely"
+  navbar:
+    
+    pinned: true
+
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    
+    right:
+       - text: "{{< iconify bi github size=1.5em title='GitHub' >}}"
+         href: https://github.com/tadeascely
+         rel: me
+       - text: "{{< iconify bi twitter size=1.5em title='Twitter' >}}"
+         href: https://x.com/CelyTadeas
+         rel: me
+
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+    
+
+
+
