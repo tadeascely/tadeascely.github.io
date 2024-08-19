@@ -2,8 +2,6 @@
 title: "Teaching"
 ---
 
-This site contains research
-
-```{r}
-1 + 1
-```
+::: {.callout-caution collapse="false"}
+This page is currently under development, and the information provided is not yet complete.
+:::
