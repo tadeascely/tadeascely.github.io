@@ -17,6 +17,8 @@ website:
         href: research.qmd
       - text: "Teaching"
         href: teaching.qmd
+      - text: "Academic Service"
+        href: service.qmd
         
     right:
        - text: "{{< iconify bi github size=1.5em title='GitHub' >}}"
