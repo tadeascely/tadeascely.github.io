@@ -2,10 +2,6 @@
 title: "Teaching"
 ---
 
-::: {.callout-caution collapse="false"}
-This page is currently under development, and the information provided is not yet complete.
-:::
-
 ## Proposed courses
 
 
