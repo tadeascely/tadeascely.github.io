@@ -6,7 +6,7 @@ My research spans the fields of political science, communication and social psyc
 
 ### Papers
 
-**New Threat of Culture Wars?** The Religious Roots of Public Opinion Polarization on Morality Issues in Europe |  [Preprint](https://osf.io/preprints/osf/cu82k) |  [Supplement](https://osf.io/uea6s), *Under Review*
+**New Threat of Culture Wars?** The Religious Roots of Public Opinion Polarization on Morality Issues in Europe |  [Preprint](https://osf.io/preprints/osf/cu82k) |  [Supplement](https://osf.io/uea6s) |  [Replication files](https://github.com/tadeascely/culture_wars), Forthcoming in *European Union Politics*
 
 ::: {.callout-note collapse="true"}
 
