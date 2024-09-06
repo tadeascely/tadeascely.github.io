@@ -9,18 +9,6 @@ My main interest is to uncover the roots of public opinion and affective polariz
 
 I used to be a Fulbright Fellow at [**Polarization Research Lab**](https://polarizationresearchlab.org/team/) (Stanford, University of Pennsylvania, and **Dartmouth**) throughout the 2023/24 academic year and a visiting researcher at the [**University of Vienna**](https://staatswissenschaft.univie.ac.at/en/) in Spring 2023. I also currently serve as a research secretary of the [**Czech Political Science Association**](https://www.czechpsa.org/home).
 
+My research focuses on belief alignment and political polarization in Europe. I explore how historical church-state conflicts shape cultural divides on moral issues between Catholic and Protestant countries. I also examine ideological asymmetry, finding that left-wing partisans tend to have more coherent beliefs, but emerging sociocultural conflicts challenge this alignment. Additionally, I study emotional responses to policy disagreement, showing that ideologues react more strongly due to both observed and anticipated disagreements. I use quantitative and computational methods to analyze these dynamics.
+
 There's a [document CV](Tadeáš_Celý___Curriculum_Vitae.pdf) for more.
-
-**Main Theses of My Dissertation**
-
-###### **Patterns of Constraint on Morality and Economic Issues across Europe**
-
-In Europe, opinion in Catholic countries is more divided by culture wars than in Protestant countries. This pattern is stable, unlike the effect of development, which fades over time. Delving into this result, I demonstrate a pattern of generational replacement in less developed contexts, which has shaped the diminishing effect of development. Culture wars may be more rooted in historical conflicts than previously assumed. [Preprint](https://osf.io/preprints/osf/cu82k), [Supplement](https://osf.io/uea6s), *Under Review*
-
-###### **Asymmetry in Belief Constraint across Partisans and Parties**
-
-In another paper, I demonstrate the propensity of left-wing partisans to align their beliefs ideologically with their parties, also showing them to be a group more coherent in their beliefs than other parties. However, I also reveal a shift in this asymmetry concerning sociocultural issues, indicative of emergent ideological conflicts among partisans across European countries. Finally, I observe only limited effects on other party ideological characteristics, such as nicheness and position blurring, [Preprint](https://osf.io/preprints/osf/fgpt3) (supplement included), *Under Review*
-
-###### **Recognizable structures and opinionatedness change the nature of policy disagreement**
-
-In the last piece, I empirically differentiate between ideological and non-ideological policy disagreement. I show that both types stimulate a different kind of emotional response, because ideologues disagree not only on beliefs they observe, but also those which they can predict. Finally, I describe how centrism and opinion divergence differ when encountered. ~~Preprint~~ (September 2024), *Full Draft*
