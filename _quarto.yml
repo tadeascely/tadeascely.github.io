@@ -27,6 +27,9 @@ website:
        - text: "{{< iconify bi twitter size=1.5em title='Twitter' >}}"
          href: https://x.com/CelyTadeas
          rel: me
+       - text: "{{< iconify bi bluesky size=1.5em title='Bluesky' >}}"
+         href: https://bsky.app/profile/celytadeas.bsky.social
+         rel: me
     
      
 format:

@@ -4,7 +4,7 @@ title: "Research"
 
 My research spans the fields of political science, communication and social psychology, with an emphasis on ideology, beliefs, and affective attachments to parties and individuals. I employ various methods; however, most of my research is quantitatively oriented. I particularly enjoy using computational and experimental approaches.
 
-### Papers
+### Dissertation Papers
 
 **New Threat of Culture Wars?** The Religious Roots of Public Opinion Polarization on Morality Issues in Europe \| [Preprint](https://osf.io/preprints/osf/cu82k) \| [Supplement](https://osf.io/uea6s) \| [Replication files](https://github.com/tadeascely/culture_wars), Forthcoming in **European Union Politics**
 
@@ -14,7 +14,7 @@ My research spans the fields of political science, communication and social psyc
 Cultural polarization divides European public opinion on moral issues, from Italy’s refusal to register children of same-sex couples to abortion protests in Poland. These divisions stem from historical church-state conflicts in various religious cultures. This polarization is particularly strong in Catholic countries but less so in Protestant ones. Using data from 19 European democracies, I show a persistent gap between Catholic and Protestant countries. Developed countries no longer lead in moral issue divisions, with recent surveys showing no or reversed differences. Younger generations are more principled on moral issues except in Protestant contexts, with cohort differences in polarization growing significantly between 2008 and 2017, highlighting the enduring impact of religious traditions.
 :::
 
-**No Conservative View Left**: Ideological Alignment Among European Partisans \| [Preprint](https://osf.io/preprints/osf/fgpt3) (supplement included) \| *Under Review*
+**No Conservative View Left**: Ideological Alignment Among European Partisans \| [Preprint](https://osf.io/preprints/osf/fgpt3) (supplement included) \| *R&R in European Journal of Political Research*
 
 ::: {.callout-note collapse="true"}
 ## Abstract
@@ -32,12 +32,14 @@ An expanding body of evidence indicates that substantive disagreement fuels part
 
 ### In progress
 
-**Making it Abstract, Making it Easier**: Social Distance to Unfavorable Policies Decreases Issue Difficulty for Populist Voters \| **Tadeas Cely**, Roman Chytilek, Michal Toth \| *Under Review*
+**Insignificant Others** Policy Abstractness and Attitude Formation among (Non-)Populists \| **Tadeas Cely**, Roman Chytilek, Michal Toth \| *Under Review*
 
 **Democracy Erodes from the Bottom**: Levels of Office, Norm Violations, and Party Defections \| **Tadeas Cely**, Marc Jacob, Sean Westwood \| *Under Review*
 
-**Does Moral Reframing Decrease Political News Avoidance?** Facts, Values and News Avoidance in an Eye-tracking Study \| Michal Toth, **Tadeas Cely**, Roman Chytilek \| *In progress*
+**Does Moral Reframing Decrease Political News Avoidance?** Facts, Values and News Avoidance in an Eye-tracking Study \| Michal Toth, **Tadeas Cely**, Roman Chytilek \| *Data Collection*
 
-**The End of Eastern Exceptionalism?** Othering And Polarization in Eastern Europe\| Lenka Hrbkova, Matej Jungwirth, **Tadeas Cely** (equal contribution) \| *Design*
+**The End of Eastern Exceptionalism?** Othering And Polarization in Eastern Europe\| Lenka Hrbkova, Matej Jungwirth, **Tadeas Cely** (equal contribution) \| *Data Collection*
 
-**Measuring Affective Polarization in Fragmented Party Systems** \| **Tadeas Cely**, Lenka Hrbkova, Matej Jungwirth \| *Design*
+**Not So Partisan? How Social Group Membership Shapes Out-Party Disdain** \| **Tadeas Cely**, Lenka Hrbkova, Matej Jungwirth \| *Data Collection*
+
+**Messenger of Evil, Hatred, and Political Opposition: Support for Political Violence After Violent Events- Evidence from Slovakia**\| **Tadeas Cely**, Michal Tóth, Peter Spac, and Miroslav Nemcok \| *Design*
