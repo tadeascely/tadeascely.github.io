@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Teaching – Tadeas Cely</title>
+<title>Reporty o politické polarizaci – Tadeas Cely</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,6 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -66,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-9NXFXQS1HJ"></script>
 
 <script type="text/javascript">
@@ -76,6 +107,35 @@ gtag('js', new Date());
 gtag('config', 'G-9NXFXQS1HJ', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -106,7 +166,7 @@ gtag('config', 'G-9NXFXQS1HJ', { 'anonymize_ip': true});
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./teaching.html" aria-current="page"> 
+    <a class="nav-link" href="./teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
@@ -142,26 +202,15 @@ gtag('config', 'G-9NXFXQS1HJ', { 'anonymize_ip': true});
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#proposed-courses" id="toc-proposed-courses" class="nav-link active" data-scroll-target="#proposed-courses">Proposed courses</a></li>
-  <li><a href="#courses-i-taught" id="toc-courses-i-taught" class="nav-link" data-scroll-target="#courses-i-taught">Courses I taught</a>
-  <ul class="collapse">
-  <li><a href="#teaching-assistance" id="toc-teaching-assistance" class="nav-link" data-scroll-target="#teaching-assistance">Teaching Assistance</a></li>
-  <li><a href="#part-time-lecturing" id="toc-part-time-lecturing" class="nav-link" data-scroll-target="#part-time-lecturing">Part-Time Lecturing</a></li>
-  </ul></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Teaching</h1>
+<h1 class="title">Reporty o politické polarizaci</h1>
 </div>
 
 
@@ -178,30 +227,43 @@ gtag('config', 'G-9NXFXQS1HJ', { 'anonymize_ip': true});
 </header>
 
 
-<section id="proposed-courses" class="level2">
-<h2 class="anchored" data-anchor-id="proposed-courses">Proposed courses</h2>
-<p><strong>Conflict and Polarization in Western Democracies</strong></p>
-<p><strong>Studies in Good Citizenship: Political Behavior Perspective</strong></p>
-</section>
-<section id="courses-i-taught" class="level2">
-<h2 class="anchored" data-anchor-id="courses-i-taught">Courses I taught</h2>
-<section id="teaching-assistance" class="level3">
-<h3 class="anchored" data-anchor-id="teaching-assistance">Teaching Assistance</h3>
-<p><strong>Introduction to Political Science</strong> (2022, 2023): Provided formative evaluations of position papers on key research themes in political science, such as the role of ideology and democratic theory. Led seminars on the essentials of conducting research, focusing on scientific principles and methods.</p>
-<p><strong>Contemporary Czech Politics</strong> (2022): Introduced basic concepts in political sociology and party competition, including cleavage theory, political conflict, and populism. Led seminars that applied these theoretical frameworks to the interpretation of Czech political competition.</p>
-<p><strong>Political Science Research Methods</strong> (2022): Provided formative evaluations of research proposals and literature reviews.</p>
-<p><strong>Statistical Reasoning in Political Science</strong> (2023): Assisted students with practical tasks related to distributions and measures of association.</p>
-</section>
-<section id="part-time-lecturing" class="level3">
-<h3 class="anchored" data-anchor-id="part-time-lecturing">Part-Time Lecturing</h3>
-<p><strong>History of Czech Politics</strong> (2023): Delivered seminar lectures reviewing the major events of Czech politics over the last century. Concluded with a practical session on the key social issues between the wars, including exercises on constitutional engineering.</p>
-<p><strong>Political Psychology</strong> (2025): Currently preparing a co-lectured course with a colleague. My contribution will focus on the foundations of ideology, understanding public opinion, and contextualizing political polarization. <em>Syllabus will be available soon</em></p>
+<p>Zde naleznete shrnuté a pro veřejnost prezentované výsledky mojí výzkumné práce (v některých případech ve spolupráci s dalšími). Všechny tyto reporty se týkají nějakým způsobem <strong>politické polarizace masové veřejnosti</strong>. Konkrétně jde především o otázky nesouhlasu, sociálních identit a konfliktu, který vyplývá z upřednostnění některých identit nad jinými. Ve všem tomto výzkumu jsem čerpal z rad a pomoci kolegů na nejrůznějších pracovištích, proto jednotlivé příspěvky zahrnují i různá poděkování. Všechna tato práce je buď publikována v recenzovaných časopisech, nebo je právě v průběhu recenzního řízení.</p>
 
 
-</section>
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Nesouhlas,Evropa" data-listing-date-sort="1730588400000" data-listing-file-modified-sort="1730670306335" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
+<a href="./posts/IP.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/rep1.svg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kulturní války v Evropě: Kde se lidé neshodnou na morálních otázkách a proč
+</h5>
+<div class="card-text listing-description">
+Pomocí dozníkový dat od 223,099 různých respondentů z let 1990–2017 se zaměřuji na to, jak se liší předmět politického nesouhlasu napříč evropskými zeměmi s důrazem na…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Tadeáš Celý
+</div>
+<div class="listing-date">
+Nov 3, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
