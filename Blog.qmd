@@ -5,4 +5,4 @@ listing:
   type: grid
 ---
 
-Zde naleznete shrnuté a pro veřejnost prezentované výsledky mojí výzkumné práce (v některých případech ve spolupráci s dalšími). Všechny tyto reporty se týkají nějakým způsobem **politické polarizace masové veřejnosti**. Konkrétně jde především o otázky nesouhlasu, sociálních identit a konfliktu, který vyplývá z upřednostnění některých identit nad jinými. Ve všem tomto výzkumu jsem čerpal z rad a pomoci kolegů na nejrůznějších pracovištích, proto jednotlivé příspěvky zahrnují i různá poděkování. Všechna tato práce je buď publikována v recenzovaných časopisech, nebo je právě v průběhu recenzního řízení.
+Zde naleznete shrnuté a pro veřejnost prezentované výsledky mojí výzkumné práce (v některých případech ve spolupráci s dalšími). Všechny tyto reporty se týkají nějakým způsobem **politické polarizace**, **politických postojů**, či **politických identit**. Všechen výzkum je buď již publikován v recenzovaných časopisech, nebo je právě v průběhu recenzního řízení.

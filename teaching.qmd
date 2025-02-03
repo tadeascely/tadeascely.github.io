@@ -6,11 +6,29 @@ title: "Teaching"
 
 **Conflict and Polarization in Western Democracies**
 
-
 **Studies in Good Citizenship: Political Behavior Perspective**
 
+## Teaching Experience
 
-## Courses I taught
+### Lecturing
+
+**Political Psychology** (2025): Co-teaching (*50%*) a graduate-level course introducing students to contemporary research in political psychology. All lectures are conducted in English. Topics covered include:
+
+-   Political Identity & Beliefs\
+-   Ideologies & Political Alliances\
+-   Political Polarization & Disagreement\
+-   Socialization & Social Networks\
+-   Morality in Politics
+
+### Teaching Statement
+
+For me, teaching is both a joy and a responsibility. My philosophy follows a constructivist approach, encouraging students to build on their experiences and create knowledge. In addition to university-level teaching, I have volunteered with youth organizations for years. Whether inside or outside the classroom, I set session goals, provide key information, and guide students to analyze and interpret, fostering active learning.
+
+One example of this method was a lecture series on interwar European politics, often seen as dry and disconnected from students' interests. To engage them, I reframed the course around political and social issues of the time. In the final workshop, students designed new constitutions robust to main social challenges of the day, discussed them in groups, and presented their proposals. Subsequent feedback indicated that this approach deepened their understanding.
+
+I prioritize formative evaluation, providing detailed feedback on essays and theses that highlights strengths and areas for improvement. I value students' progress over test performance and tailor my feedback to their learning pace and prior work.
+
+My teaching experience includes university-level training at Masaryk University’s Teaching Competence Development Center, where I was an early participant. I have assisted in several courses and supervised seven theses. Currently, I am teaching an entirely new course \textit{Political Psychology}, which is offered in English to Czech and foreign students of political science and psychology.
 
 ### Teaching Assistance
 
@@ -18,12 +36,8 @@ title: "Teaching"
 
 **Contemporary Czech Politics** (2022): Introduced basic concepts in political sociology and party competition, including cleavage theory, political conflict, and populism. Led seminars that applied these theoretical frameworks to the interpretation of Czech political competition.
 
+**History of Czech Politics** (2023): Delivered seminar lectures reviewing the major events of Czech politics over the last century. Concluded with a practical session on the key social issues between the wars, including exercises on constitutional engineering.
+
 **Political Science Research Methods** (2022): Provided formative evaluations of research proposals and literature reviews.
 
 **Statistical Reasoning in Political Science** (2023): Assisted students with practical tasks related to distributions and measures of association.
-
-### Part-Time Lecturing
-
-**History of Czech Politics** (2023): Delivered seminar lectures reviewing the major events of Czech politics over the last century. Concluded with a practical session on the key social issues between the wars, including exercises on constitutional engineering.
-
-**Political Psychology** (2025): Currently preparing a co-lectured course with a colleague. My contribution will focus on the foundations of ideology, understanding public opinion, and contextualizing political polarization. *Syllabus will be available soon*
