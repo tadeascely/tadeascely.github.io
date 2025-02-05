@@ -16,7 +16,7 @@ Cultural polarization divides European public opinion on moral issues, from Ital
 Keywords: **Public opinion polarization, culture wars, comparative politics, Europe**
 :::
 
-One More Constrained Than The Other: Asymmetrical Ideological Alignment and Its Implications for Polarization \| [Preprint](https://osf.io/fgpt3) \| R&R in **European Journal of Political Research**
+One More Constrained Than The Other: Asymmetrical Ideological Alignment and Its Implications for Polarization \| [Preprint](https://osf.io/fgpt3)\| [Replication files](https://github.com/tadeascely/one_more_constrained)\| Forthcoming in **European Journal of Political Research**
 
 ::: {.callout-note collapse="true"}
 ## More
