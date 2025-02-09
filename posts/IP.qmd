@@ -3,7 +3,7 @@ title: "Kulturní války v Evropě: Kde se lidé neshodnou na morálních otázk
 author: "Tadeáš Celý"
 date: 2024-11-03
 categories: [Nesouhlas, Evropa]
-image: "rep1.svg"
+image: "IP_illustration.png"
 ---
 
 Pomocí dozníkový dat od 223,099 různých respondentů z let 1990–2017 se zaměřuji na to, jak se liší předmět politického nesouhlasu napříč evropskými zeměmi s důrazem na nesouhlas na ne-ekonomických otázkách, tzv. kulturní války. Teorie postmaterialismu předpokládá, že rozdíly vznikají mezi méně a více rozvinutými zeměmi v důsledku ekonomického nedostatku. Naopak teze o historickém střetu mezi církví a státem se soustředí na konflikty kolem sekularizace veřejného prostoru, které byly výrazné v katolických zemích a téměř chyběly v protestantských. Tyto konflikty, zakořeněné v náboženských kulturách, ovlivňují politická přesvědčení. Spíše než konflikt věřících a nevěřících jde o rozdíly v důrazu, dané historickou rolí katolických a protestantských institucí. Moje výsledky ukazují, že rozdíly skutečně nesledují vzorec na základé ekonomického rozvoje, ale kopíruje náboženské kultury.

@@ -1,0 +1,27 @@
+---
+title: "Stranický konflikt v Evropě: Podporovatelé konzervativních stran jsou méně jednotní v postojích"
+author: "Tadeáš Celý"
+date: 2025-02-09
+categories: [Ideologie, Strany, Nesouhlas, Evropa]
+image: "PS_illustration.png"
+---
+Na základě dat z průzkumů **European Social Survey** zahrnujících **23 586 straníků** napříč **15 evropskými zeměmi** testuji a potvrzuji, že **podporovatelé konzervativních a pravicových stran jsou v postojích méně konzistentní než podporovatelé levicových stran**. Tato teze vychází z řady psychologických a sociologických výzkumů. To znamená, že názory pravicových voličů jsou různorodější a méně propojené, zatímco levicové tábory vykazují vyšší míru jednotnosti v ekonomických i kulturních otázkách. Tato asymetrie ovlivňuje povahu politického konfliktu – méně konzistentní tábor určuje jeho rozsah. Když se však i konzervativní tábory ideově sjednotí, konflikt se výrazně prohloubí. Tento trend je patrný zejména v kulturních otázkách, kde se pravicová jednota od roku 2016 výrazně zvýšila. Metodologicky využívám víceúrovňových regresních modelů ideologického překrytí postojů, které analyzují stranickou konzistenci uvnitř jednotlivých zemí, a ze síťové analýzy propojení postojů mezi stranickými rodinami napříč Evropou.
+
+
+### Klíčová zjištění
+
+-   **Podporovatelé stran na levici jsou více jednotní než na pravici**, což se potvrzuje jak pro ekonomická, tak pro společenská a kulturní témata, uvnitř zemí i pro stranické rodiny napříč zeměmi.
+-   **Podporovatelé sociálně-demokratických, zelených stran a stran tzv. Nová levice** jsou konzistentnější i na širší Evropské úrovni než ostatní podporovatelé středových a pravicových stran.
+-   **Asymetrie má jednu výjimku**, kterou jsou data z roku 2016 a kulturní témata - zatímco dříve je vztah asymetrický, zde nastává symetrie, kdy podporovatelé stran na pravici jsou mnohem jednotnější na těchto tématech než dříve. Může to značit i nárůst ideologičnosti na kulturní tématech na krajní pravici.
+
+**Prosím, otevřete si**:
+
+[Report v plném znění](Report_2.pdf)
+
+K dispozici je také autorská verze tohoto článku (tzv. preprint):
+
+[Preprint](https://osf.io/fgpt3)
+
+### Poděkování
+
+Chtěl bych poděkovat za zpětnou vazbu řadě akademiků, především chci zmínit jména: *Marc Jacob, Leo Carella, Markus Wagner, Andrew Roberts, James Adams, Ruth Dassonneville* a *Sean Westwood*. Práce byla prezentována na workshopu ECPR Sítě politických postojů, na roční konferenci ECPR, také na konferenci MPSA v Chicagu. Manuskript využívá i kontroly gramatiky prostřednictvím GPT-4.

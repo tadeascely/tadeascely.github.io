@@ -81,7 +81,7 @@
     "href": "Blog.html",
     "title": "Reporty o politické polarizaci",
     "section": "",
-    "text": "Zde naleznete shrnuté a pro veřejnost prezentované výsledky mojí výzkumné práce (v některých případech ve spolupráci s dalšími). Všechny tyto reporty se týkají nějakým způsobem politické polarizace, politických postojů, či politických identit. Všechen výzkum je buď již publikován v recenzovaných časopisech, nebo je právě v průběhu recenzního řízení.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKulturní války v Evropě: Kde se lidé neshodnou na morálních otázkách a proč\n\n\n\n\n\n\nTadeáš Celý\n\n\nNov 3, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Zde naleznete shrnuté a pro veřejnost prezentované výsledky mojí výzkumné práce (v některých případech ve spolupráci s dalšími). Všechny tyto reporty se týkají nějakým způsobem politické polarizace, politických postojů, či politických identit. Všechen výzkum je buď již publikován v recenzovaných časopisech, nebo je právě v průběhu recenzního řízení.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKulturní války v Evropě: Kde se lidé neshodnou na morálních otázkách a proč\n\n\n\n\n\n\nTadeáš Celý\n\n\nNov 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStranický konflikt v Evropě: Podporovatelé konzervativních stran jsou méně jednotní v postojích\n\n\n\n\n\n\nTadeáš Celý\n\n\nFeb 9, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "docs/blog.html",
@@ -124,5 +124,12 @@
     "title": "Research",
     "section": "Attitude Formation, Attention to Issues",
     "text": "Attitude Formation, Attention to Issues\nInsignificant Others: Policy Abstractness and Attitude Formation among (Non-)Populists | Tadeas Cely, Roman Chytilek, Michal Toth | Under Review\nDoes Moral Reframing Decrease Political News Avoidance? Facts, Values and News Avoidance in an Eye-tracking Study | Michal Toth, Tadeas Cely, Roman Chytilek | Writing"
+  },
+  {
+    "objectID": "posts/PS.html",
+    "href": "posts/PS.html",
+    "title": "Stranický konflikt v Evropě: Podporovatelé konzervativních stran jsou méně jednotní v postojích",
+    "section": "",
+    "text": "Na základě dat z průzkumů European Social Survey zahrnujících 23 586 straníků napříč 15 evropskými zeměmi testuji a potvrzuji, že podporovatelé konzervativních a pravicových stran jsou v postojích méně konzistentní než podporovatelé levicových stran. Tato teze vychází z řady psychologických a sociologických výzkumů. To znamená, že názory pravicových voličů jsou různorodější a méně propojené, zatímco levicové tábory vykazují vyšší míru jednotnosti v ekonomických i kulturních otázkách. Tato asymetrie ovlivňuje povahu politického konfliktu – méně konzistentní tábor určuje jeho rozsah. Když se však i konzervativní tábory ideově sjednotí, konflikt se výrazně prohloubí. Tento trend je patrný zejména v kulturních otázkách, kde se pravicová jednota od roku 2016 výrazně zvýšila. Metodologicky využívám víceúrovňových regresních modelů ideologického překrytí postojů, které analyzují stranickou konzistenci uvnitř jednotlivých zemí, a ze síťové analýzy propojení postojů mezi stranickými rodinami napříč Evropou.\n\nKlíčová zjištění\n\nPodporovatelé stran na levici jsou více jednotní než na pravici, což se potvrzuje jak pro ekonomická, tak pro společenská a kulturní témata, uvnitř zemí i pro stranické rodiny napříč zeměmi.\nPodporovatelé sociálně-demokratických, zelených stran a stran tzv. Nová levice jsou konzistentnější i na širší Evropské úrovni než ostatní podporovatelé středových a pravicových stran.\nAsymetrie má jednu výjimku, kterou jsou data z roku 2016 a kulturní témata - zatímco dříve je vztah asymetrický, zde nastává symetrie, kdy podporovatelé stran na pravici jsou mnohem jednotnější na těchto tématech než dříve. Může to značit i nárůst ideologičnosti na kulturní tématech na krajní pravici.\n\nProsím, otevřete si:\nReport v plném znění\nK dispozici je také autorská verze tohoto článku (tzv. preprint):\nPreprint\n\n\nPoděkování\nChtěl bych poděkovat za zpětnou vazbu řadě akademiků, především chci zmínit jména: Marc Jacob, Leo Carella, Markus Wagner, Andrew Roberts, James Adams, Ruth Dassonneville a Sean Westwood. Práce byla prezentována na workshopu ECPR Sítě politických postojů, na roční konferenci ECPR, také na konferenci MPSA v Chicagu. Manuskript využívá i kontroly gramatiky prostřednictvím GPT-4."
   }
 ]
