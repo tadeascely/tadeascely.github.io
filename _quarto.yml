@@ -5,6 +5,8 @@ project:
 website:
   title: "Tadeas Cely"
   google-analytics:  "G-9NXFXQS1HJ"
+  favicon: "pictures/apple-touch-icon.png"
+
 
   navbar:
 
