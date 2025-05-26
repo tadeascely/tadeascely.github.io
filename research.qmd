@@ -6,50 +6,26 @@ My research spans the fields of political science, communication and social psyc
 
 ## Public Opinion Polarization
 
-New Threat of Culture Wars? The Religious Roots of Public Opinion Polarization on Morality Issues in Europe (2025) \| [Preprint](https://osf.io/cu82k)\| [Replication files](https://github.com/tadeascely/culture_wars) \| [Report, in Czech](https://tadeascely.github.io/posts/IP.html), Forthcoming in **European Union Politics**
+1)  **Tadeas Cely**. 2025. [One More Constrained Than The Other: Asymmetrical Ideological Alignment and Its Implications for Polarization](https://doi.org/10.1111/1475-6765.70016). *European Journal of Political Research*. \| [Replication files](https://github.com/tadeascely/one_more_constrained) \| [Report, in Czech](https://tadeascely.github.io/posts/PS.html)
 
-::: {.callout-note collapse="true"}
-## More
+2)  **Tadeas Cely**. 2025. Hatred Takes An Ideologue: Recognizable Belief Patterns Lead to More Animosity and Disagreement. *Political Behavior*. [Replication files](https://github.com/tadeascely/ideologue)
 
-Cultural polarization divides European public opinion on moral issues, from Italy’s refusal to register children of same-sex couples to abortion protests in Poland. These divisions stem from historical church-state conflicts in various religious cultures. This polarization is particularly strong in Catholic countries but less so in Protestant ones. Using data from 19 European democracies, I show a persistent gap between Catholic and Protestant countries. On the other hand, I show a limited effect of economic prosperity. Developed countries no longer lead in moral issue divisions, with recent surveys showing no or reversed differences. Younger generations are no less principled on moral issues in the Catholic contexts, with cohort differences in polarization even growing significantly between 2008 and 2017, highlighting the enduring impact of religious traditions among younger cohorts.
-
-Keywords: **Public opinion polarization, culture wars, comparative politics, Europe**
-:::
-
-One More Constrained Than The Other: Asymmetrical Ideological Alignment and Its Implications for Polarization \| [Preprint](https://osf.io/fgpt3)\| [Replication files](https://github.com/tadeascely/one_more_constrained)\| Forthcoming in **European Journal of Political Research**
-
-::: {.callout-note collapse="true"}
-## More
-
-This study examines the ideological alignment of beliefs within opposing partisan camps in Europe. Integrating multiple types of research, I hypothesize that partisans on the ideological left exhibit greater alignment in their beliefs compared to those on the right—an asymmetry that extends across various issues. I argue that on the scale of ideological contention, it matters if partisans on one ideological pole are more aligned in beliefs than those on the other. Only the less ideological of opposing camps determines the extent of mutual disagreement. Utilizing conventional methods and innovative belief network modeling, I analyze survey data from the fourth and eighth waves of the European Social Survey (2008, 2016). To test the hypothesis, I match partisans with the data on their party’s ideology, covering partisans from 131 parties in 15 European countries to test this hypothesis. My findings reveal that, both at the European level and within national contexts, there is a broad and substantive asymmetry between the right and the left across ideological dimensions and issues. However, the study also uncovers the limits of this asymmetry, highlighting a significant shift in ideological alignment on sociocultural issues on the right, indicating the emergence of a deeper, broader ideological conflict in that dimension. Furthermore, my analysis demonstrates the marginal influence of strategies like position blurring and programmatic nicheness. These insights shed light on the nature of partisan contention in Europe and how it disproportionately depends on ideological alignment on the right.
-
-Keywords: **Ideological alignment, disagreement, partisanship, Europe**
-:::
-
-**Hatred Takes An Ideologue**: Recognizable Belief Patterns Lead to More Animosity and Disagreement \| [Preprint](https://osf.io/kqbc3) \| Forthcoming in **Political Behavior**
-
-::: {.callout-note collapse="true"}
-## More
-
-An expanding body of evidence indicates that substantive disagreement fuels political animosity. However, pundits often use terms like 'ideological disagreement' to describe a broad range of phenomena, diverging from how the concept is understood in classical Conversian literature on beliefs and their structures. This literature suggests that individuals do not uniformly hold or organize their opinions. Building on this foundation, I argue for a critical distinction between disagreements among ideologues—who are opinionated and aligned in their beliefs—and disagreements among others. I hypothesize that disagreements among ideologues result in higher expected disagreement and greater mutual animosity. To test this hypothesis, I conducted two survey experiments with representative U.S. samples (N = 2,000 each, in January 2024 and May 2024). Using evaluations of hypothetical profiles of fellow citizens, I demonstrate that opinionatedness and ideological alignment of beliefs significantly reduce interpersonal affinity in contexts of disagreement. In the first study, disagreements with centrists elicit nearly four times less animosity than disagreements with opinionated counterparts. Furthermore, ideological alignment generates almost three times more intense negative feelings at equivalent levels of substantive disagreement. In the second study, I find that ideologically aligned individuals anticipate higher levels of disagreement with one another compared to non-ideologues, when they observe the same level of disagreement as them. This effect is particularly pronounced among ideologues capable of recognizing ideological patterns in others' beliefs. These findings highlight the role of opinionatedness and recognizable belief structures, offering a new approach that is generalizable to other divided democracies.
-
-Keywords: **Ideological disagreement, policy disagreement, animosity, polarization**
-:::
+3)  **Tadeas Cely**. 2025. [New Threat of Culture Wars? The Religious Roots of Public Opinion Polarization on Morality Issues in Europe](https://doi.org/10.1177/14651165251320882). *European Union Politics*. [Replication files](https://github.com/tadeascely/culture_wars) \| [Report, in Czech](https://tadeascely.github.io/posts/IP.html)
 
 ## Political Violence, Democracy
 
-The Anti-Democratic Pipeline: Voter Responses Across Office Levels \| **Tadeas Cely**, Marc Jacob, Sean Westwood \| *Under Review*
+1)  **Tadeas Cely**, Marc Jacob, Sean Westwood. The Anti-Democratic Pipeline: Voter Responses Across Office Levels \| *Revise and resubmit*
 
-Messenger of Evil, Hatred, and Political Opposition: Support for Political Violence After Violent Events- Evidence from Slovakia\| **Tadeas Cely**, Michal Tóth, Miroslav Nemčok, Peter Spac \| *Data Collection*
+2)  **Tadeas Cely**, Michal Tóth, Miroslav Nemčok, Peter Spáč. Blaming for Violence After Violent Events \| *Under Review*
 
 ## Comparative Politics
 
-Limits of Eastern Convergence: Othering And Polarization in Eastern Europe\| **Tadeas Cely**, Lenka Hrbkova, Matej Jungwirth \| *Writing*
+1)  **Tadeas Cely**, Lenka Hrbková, Matěj Jungwirth. Structures in Our Heads: Collective Identities and Partisan Alignment in Eastern Europe \| *Under Review*
 
-Eastern Ideologies: Change and Heterogeneity in Belief Alignment in Central and Eastern Europe \| Lenka Hrbkova, **Tadeas Cely**, Matej Jungwirth \| *Writing*
+2)  Lenka Hrbková\*, **Tadeas Cely** \*, Matěj Jungwirth. Eastern Ideologies: Change and Heterogeneity in Belief Alignment in Central and Eastern Europe \| *Under Review*
 
 ## Attitude Formation, Attention to Issues
 
-Insignificant Others: Policy Abstractness and Attitude Formation among (Non-)Populists \| **Tadeas Cely**, Roman Chytilek, Michal Toth \| *Under Review*
+1)  **Tadeas Cely**, Roman Chytilek, Michal Toth. The Other People: Policy Abstractness and Attitude Formation among (Non-)Populists \| *Under Review*
 
-Does Moral Reframing Decrease Political News Avoidance? Facts, Values and News Avoidance in an Eye-tracking Study \| Michal Toth, **Tadeas Cely**, Roman Chytilek \| *Writing*
+2)  Michal Toth, **Tadeas Cely**, Roman Chytilek. Does Moral Reframing Decrease Political News Avoidance? Facts, Values and News Avoidance in an Eye-tracking Study \| *Under Review*
