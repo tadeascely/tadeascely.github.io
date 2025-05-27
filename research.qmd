@@ -6,11 +6,11 @@ My research spans the fields of political science, communication and social psyc
 
 ## Public Opinion Polarization
 
-1)  **Tadeas Cely**. 2025. [One More Constrained Than The Other: Asymmetrical Ideological Alignment and Its Implications for Polarization](https://doi.org/10.1111/1475-6765.70016). *European Journal of Political Research*. \| [Replication files](https://github.com/tadeascely/one_more_constrained) \| [Report, in Czech](https://tadeascely.github.io/posts/PS.html)
+1)  **Tadeas Cely**. 2025. [One More Constrained Than The Other: Asymmetrical Ideological Alignment and Its Implications for Polarization](https://doi.org/10.1111/1475-6765.70016). *European Journal of Political Research*. \| [Replication files](https://github.com/tadeascely/one_more_constrained) \| [Česky](https://tadeascely.github.io/posts/PS.html)
 
-2)  **Tadeas Cely**. 2025. Hatred Takes An Ideologue: Recognizable Belief Patterns Lead to More Animosity and Disagreement. *Political Behavior*. [Replication files](https://github.com/tadeascely/ideologue)
+2)  **Tadeas Cely**. 2025. [Hatred Takes An Ideologue: Recognizable Belief Patterns Lead to More Animosity and Disagreement](https://doi.org/10.1007/s11109-025-10049-z) . *Political Behavior*. [Replication files](https://github.com/tadeascely/ideologue)
 
-3)  **Tadeas Cely**. 2025. [New Threat of Culture Wars? The Religious Roots of Public Opinion Polarization on Morality Issues in Europe](https://doi.org/10.1177/14651165251320882). *European Union Politics*. [Replication files](https://github.com/tadeascely/culture_wars) \| [Report, in Czech](https://tadeascely.github.io/posts/IP.html)
+3)  **Tadeas Cely**. 2025. [New Threat of Culture Wars? The Religious Roots of Public Opinion Polarization on Morality Issues in Europe](https://doi.org/10.1177/14651165251320882). *European Union Politics*. [Replication files](https://github.com/tadeascely/culture_wars) \| [Česky](https://tadeascely.github.io/posts/IP.html)
 
 ## Political Violence, Democracy
 
