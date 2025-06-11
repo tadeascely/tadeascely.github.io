@@ -8,7 +8,6 @@ format:
     scrollable: false
     fig-cap-location: top
 bibliography: references.bib
-output-dir: C:\Users\tadec\OneDrive - MUNI\GitHub\tadeascely.github.io\docs\defense
 ---
 
 ## Public Opinion Polarization
@@ -295,68 +294,39 @@ This part was published in [**Political Behavior**](https://doi.org/10.1007/s111
 :::
 :::
 
-## Method {.smaller}
+## Analysis {.smaller}
+
+::: columns
+::: {.column width="50%"}
+#### Methods
 
 -   Survey experiments with repeated hypothetical profiles
 -   Profiles mirroring responses
--   2000 US respondents (YouGov, PRL)
-
-::: panel-tabset
-### Study 1
-
-::: columns
-::: {.column width="50%"}
--   January 2024
--   eight political issues
--   DV: Feeling Thermometer
+-   2x 2000 US respondents (YouGov, PRL)
+-   Study 1 (DV): Feeling Thermometer
+-   Study 2 (DV): Expected disagreement
 :::
 
 ::: {.column width="50%"}
-![](table.png){width="380"}
+#### Results
+
+::: {.callout-note icon="false"}
+## Overview
+
+1.  Disagreement with an opinionated counterpart elicits up to **4× more animosity**.
+
+2.  Ideologues show stronger affective reactions—liking similar-minded people more and disliking different-minded people more—with a **51-point difference**, compared to **19 points** for non-ideologues.
+
+3.  Ideologues, especially the politically sophisticated, **expect more disagreement** from different-minded vignettes and more agreement from similar-minded ones.
 :::
 :::
-
-### Study 2
-
-::: columns
-::: {.column width="50%"}
--   May 2024
--   four political issues
--   DV: Expected Disagreement (Never...Always Disagree)
--   Sophistication: Guessing unobserved beliefs
-:::
-
-::: {.column width="50%"}
-![](vignette.png){width="380"}
-:::
-:::
-:::
-
-## Animosity
-
-::: columns
-::: {.column width="50%"}
--   Strong Disagreement: **- 9.1 points** (*SE = 0.31, p \< 0.001*)
-
--   Weak Disagreement: **- 2.5 points** (*SE = 0.41, p \< 0.001*) (vignette centrist) , **- 2.2 points** (*SE = 0.25, p\<0.001*) (respondent centrist)
-:::
-
-::: {.column width="50%"}
-![Disagreement By Alignment](BeliefAlignment.svg)
-:::
-:::
-
-## Expected Disagreement
-
-::: {layout="[50,50]" layout-valign="top"}
-![Pooled](s2main0.svg)
-
-![By Sophistication](s2main.svg)
 :::
 
 # Partisan Camps
 
 ## Asymmetry Hypothesis {.smaller}
+
+*Are all ideologically distinctive partisan camps equally ideologically aligned?*
 
 #### Cross-pressured individuals and asymmetry in alignment
 
@@ -374,7 +344,7 @@ This part was published in [**Political Behavior**](https://doi.org/10.1007/s111
 
 ::: aside
 This part was published in [**European Journal of Political Research**](https://doi.org/10.1111/1475-6765.70016)
-::: 
+:::
 
 ## Implications of Asymmetry {.smaller}
 
@@ -390,39 +360,39 @@ This part was published in [**European Journal of Political Research**](https://
 ![Pole B](poleB.svg)
 :::
 
-## Methods {.smaller}
-
-Partisan alignment with party's ideological orientation [^1]
-
-[^1]: i.e., do supporters of culturally conservative parties hold culturally conservative beliefs, and do supporters of economically left-wing parties hold left-wing economic views?
-
-15 countries, 131 parties, in 2008 and 2016
+## Analysis {.smaller}
 
 ::: columns
 ::: {.column width="50%"}
-#### As the number of aligned attitudes
+#### Methods
 
-![Issue Alignment](density.svg)
+-   Partisan alignment with party's ideological orientation [^1]
+
+-   DV (within countries): as the number of aligned attitudes
+
+-   DV (across countries): as the interconnectedness of beliefs
+
+    -   Belief network estimation & comparisons, party families
+
+    -   Partial correlations, GEI = sum
 :::
 
 ::: {.column width="50%"}
-#### As the interconnectedness of beliefs
+#### Results
 
--   Belief network estimation & comparisons
+::: {.callout-note icon="false"}
+## Overview
 
--   Partial correlations, GEI = sum
+1.  Supporters of right-wing parties were less aligned with conservative ideologies in 2008 (**asymmetry**).
 
--   For party families, across countries
+2.  By **2016**, alignment became **symmetrical in the sociocultural** ideological domain.
+
+3.  Supporters of left-wing party families are more heterogeneous in their beliefs than those of right-wing party families **across Europe**.
 :::
 :::
-
-## Results
-
-::: {layout="[50,50]" layout-valign="top"}
-![By Party](positions.svg)
-
-![By Party Family *(Cross-European)*](Networks.svg)
 :::
+
+[^1]: i.e., do supporters of culturally conservative parties hold culturally conservative beliefs, and do supporters of economically left-wing parties hold left-wing economic views?
 
 # Societies
 
@@ -446,68 +416,35 @@ Socialization into (post)materialistic conflict @flanagan2003, @schäfer2022, @o
 This part was published in [**European Union Politics**](https://doi.org/10.1177/14651165251320882)
 :::
 
-## Methods
+## Analysis {.smaller}
 
 ::: columns
 ::: {.column width="50%"}
-![Issue Alignment](diagram3.png)
+#### Methods
+
+::: {.panel-tabset .nav-pills}
+## Issue Alignment
+
+![](diagram3.png){width="400"}
+
+## Ideological Identity Alignment
+
+![](diagram2.png){width="350"}
+:::
 :::
 
 ::: {.column width="50%"}
-![Ideological Identity Alignment](diagram2.png)
+#### Results
+
+::: {.callout-note icon="false"}
+## Overview
+
+1.  There are few differences in culture war attitudes between the least and most developed countries.
+
+2.  However, there are s**ubstantial differences between Protestant and Catholic countries**—differences that persist even among younger cohorts.
+
+3.  These differences are especially pronounced in how **moral issues relate to each other**, how **they connect to ideological identities**, and in the comparatively lower alignment on **economic issues** .
 :::
-:::
-
-## Issue Alignment {.scrollable .smaller}
-
-::: panel-tabset
-### Description
-
-![Issue Alignment](IP_Description.svg)
-
-### Multi-Level Regression
-
-::: {style="font-size: 0.80em"}
-| Predictor                      | Morality Estimate | Morality Std. Error | Economy Estimate | Economy Std. Error |
-|---------------|:--------------|---------------|---------------|---------------|
-| **Intercept**                  | 0.26              | 0.04                | 0.26             | 0.02               |
-| Religious Culture \[Mixed\]    | 0.11              | 0.04                | -0.05            | 0.02               |
-| Religious Culture \[Catholic\] | 0.10              | 0.04                | -0.12            | 0.02               |
-| Human Development \[Middle\]   | 0.04              | 0.02                | 0.03             | 0.01               |
-| Human Development \[High\]     | 0.05              | 0.03                | 0.02             | 0.02               |
-| Net Migration per 1000         | ✓                 | ✓                   | ✓                | ✓                  |
-| Inequality (Gini index)        | ✓                 | ✓                   | ✓                | ✓                  |
-| Globalization (KOF index)      | ✓                 | ✓                   | ✓                | ✓                  |
-| *Residual Variance*            |                   |                     |                  |                    |
-| Country (Intercept)            | 0.06              |                     | 0.01             |                    |
-| Country-Time (Slopes)          | 0.02              |                     | 0.00             |                    |
-| Data                           | 0.12              |                     | 0.13             |                    |
-:::
-:::
-
-## Ideological Identity Alignment {.scrollable .smaller}
-
-::: panel-tabset
-### Description
-
-![Ideological Identity Alignment](IP_Description2.svg)
-
-### Multi-Level Regression
-
-::: {style="font-size: 0.80em"}
-| Predictor                      | Morality Estimate | Morality Std. Error | Economy Estimate | Economy Std. Error |
-|---------------|---------------|---------------|---------------|---------------|
-| **Intercept**                  | 0.13              | 0.07                | 0.37             | 0.08               |
-| Religious Culture \[Mixed\]    | 0.03              | 0.06                | -0.13            | 0.04               |
-| Religious Culture \[Catholic\] | 0.12              | 0.05                | -0.25            | 0.04               |
-| Human Development \[Middle\]   | 0.01              | 0.01                | 0.06             | 0.02               |
-| Human Development \[High\]     | 0.04              | 0.03                | \<0.01           | 0.03               |
-| Net Migration per 1000         | ✓                 | ✓                   | ✓                | ✓                  |
-| Inequality (Gini index)        | ✓                 | ✓                   | ✓                | ✓                  |
-| Globalization (KOF index)      | ✓                 | ✓                   | ✓                | ✓                  |
-| *Residual Variance*            |                   |                     |                  |                    |
-| Country (Intercept)            | 0.07              |                     | 0.06             |                    |
-| Data                           | 0.07              |                     | 0.08             |                    |
 :::
 :::
 
