@@ -1,9 +1,16 @@
 ---
 title: "Academic Service"
 ---
-### Reviewer
-*Public Opinion Quarterly, Political Behavior, Network Science*
 
+### Czech Political Science Study
+
+In June 2025, Andrew Roberts and I conducted a study on Czech political science, encompassing surveys of both the general public and political scientists. We focused on trust, biases, communication, and research practices.
+
+We prepared a dashboard of our results, which you can access [here](https://tadeascely.github.io/report.html).
+
+### Reviewer
+
+*Public Opinion Quarterly, Political Behavior, Network Science*
 
 ### Doctoral Workshop in Political Research (2021-2024)
 
@@ -22,6 +29,3 @@ I am currently co-authoring a report on perceptions of Czech political science, 
 ### Brno Workshop on Consequences of Political Polarization (12/2024)
 
 Main convenor of a one-day international research workshop featuring 10 presentations by researchers affiliated with top institutions in: *Austria, Czech Republic, Denmark, Italy, Spain, Turkey,* and the *United States*.
-
-
-
