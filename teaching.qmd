@@ -14,15 +14,8 @@ title: "Teaching"
 -   Socialization & Social Networks\
 -   Morality in Politics
 
-### Teaching Statement
+*Syllabus* [{{< iconify quill sort size=1.2em title='syllabus' >}}](https://drive.google.com/file/d/1gJ8pkiGU140xKFNBrid_hh354O6kt93Z/view?usp=drive_link)
 
-For me, teaching is both a joy and a responsibility. My philosophy follows a constructivist approach, encouraging students to build on their experiences and create knowledge. In addition to university-level teaching, I have volunteered with youth organizations for years. Whether inside or outside the classroom, I set session goals, provide key information, and guide students to analyze and interpret, fostering active learning.
-
-One example of this method was a lecture series on interwar European politics, often seen as dry and disconnected from students' interests. To engage them, I reframed the course around political and social issues of the time. In the final workshop, students designed new constitutions robust to main social challenges of the day, discussed them in groups, and presented their proposals. Subsequent feedback indicated that this approach deepened their understanding.
-
-I prioritize formative evaluation, providing detailed feedback on essays and theses that highlights strengths and areas for improvement. I value students' progress over test performance and tailor my feedback to their learning pace and prior work.
-
-My teaching experience includes university-level training at Masaryk University’s Teaching Competence Development Center, where I was an early participant. I have assisted in several courses and supervised seven theses. Currently, I am teaching an entirely new course \textit{Political Psychology}, which is offered in English to Czech and foreign students of political science and psychology.
 
 ### Teaching Assistance
 

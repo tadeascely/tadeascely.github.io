@@ -2,35 +2,48 @@
 title: "Research"
 ---
 
-My research spans the fields of political science, communication and social psychology, with an emphasis on ideology, beliefs, and affective attachments to parties and individuals. I employ various methods; however, most of my research is quantitatively oriented. I particularly enjoy using computational and experimental approaches.
+My research spans the fields of political psychology, communication and institutions.
+
 
 ## Public Opinion Polarization
 
-1)  **Tadeas Cely**. 2025. [One More Constrained Than The Other: Asymmetrical Ideological Alignment and Its Implications for Polarization](https://doi.org/10.1111/1475-6765.70016). *European Journal of Political Research*. \| [Replication files](https://github.com/tadeascely/one_more_constrained) \| [Česky](https://tadeascely.github.io/posts/PS.html)
+My flagship research addresses the sources and consequences of deep-seated political disagreement across a broad range of issues. I show how such ideological disagreement shapes affective reactions and how beliefs are structured and constrained differently across European countries and partisan camps.
 
-2)  **Tadeas Cely**. 2025. [Hatred Takes An Ideologue: Recognizable Belief Patterns Lead to More Animosity and Disagreement](https://doi.org/10.1007/s11109-025-10049-z) . *Political Behavior*. [Replication files](https://github.com/tadeascely/ideologue)
+1)  **Tadeas Cely**. 2025. One More Constrained Than The Other: Asymmetrical Ideological Alignment and Its Implications for Polarization. European Journal of Political Research 64 (4): 1945-1973. [{{< iconify academicons open-access size=1.2em title='preprint' >}}](https://doi.org/10.1111/1475-6765.70016) 
+[{{< iconify academicons open-materials size=1.2em title='replication' >}}](https://github.com/tadeascely/one_more_constrained) [{{< iconify circle-flags cz size=1.2em title='cz' >}}](https://tadeascely.github.io/posts/PS.html)
 
-3)  **Tadeas Cely**. 2025. [New Threat of Culture Wars? The Religious Roots of Public Opinion Polarization on Morality Issues in Europe](https://doi.org/10.1177/14651165251320882). *European Union Politics*. [Replication files](https://github.com/tadeascely/culture_wars) \| [Česky](https://tadeascely.github.io/posts/IP.html)
+2)  **Tadeas Cely**. 2025. Hatred Takes An Ideologue: Recognizable Belief Patterns Lead to More Animosity and Disagreement. Political Behavior. [{{< iconify academicons open-access size=1.2em title='paper' >}}](https://doi.org/10.1007/s11109-025-10049-z) [{{< iconify academicons open-materials size=1.2em title='replication' >}}](https://github.com/tadeascely/ideologue)
 
-## Political Violence, Democracy
+3)  **Tadeas Cely**. 2025. New Threat of Culture Wars? The Religious Roots of Public Opinion Polarization on Morality Issues in Europe. European Union Politics 26 (2): 226-254. [{{< iconify academicons open-access size=1.2em title='paper' >}}](https://doi.org/10.1177/14651165251320882)  [{{< iconify academicons open-materials size=1.2em title='replication' >}}](https://github.com/tadeascely/culture_wars) [{{< iconify circle-flags cz size=1.2em title='cz' >}}](https://tadeascely.github.io/posts/IP.html)
 
-1)  **Tadeas Cely**, Marc Jacob, Sean Westwood. 2025. The Anti-Democratic Pipeline: Voter Responses Across Office Levels \| **Accepted**,  *Public Opinion Quarterly*
 
-2)  **Tadeas Cely**, Michal Tóth, Miroslav Nemčok, Peter Spáč. Blaming for Violence After Violent Events \| *Under Review*
+## Democratic Backsliding
+
+Alongside polarization, democratic backsliding is a severe political threat that endangers civil rights and social harmony. My work primarily focuses on the role of individuals—voters and citizens—in preventing such backsliding. I also study interventions that help citizens serve as more reliable safeguards of democracy.
+
+1)  **Tadeas Cely**, Marc Jacob, Sean Westwood. 2025. Levels of Office and Voter Accountability for Democratic Norm Violations. *Public Opinion Quarterly*.  [{{< iconify academicons open-access size=1.2em title='preprint' >}}](https://osf.io/preprints/psyarxiv/qt3wp_v1)
+
+2)  **Tadeas Cely**, Michal Tóth, Miroslav Nemčok, Peter Spáč. Democratic Cost of Politicizing Violent Events \| *Under Review*
+
 
 ## Comparative Political Behavior
 
-1)  **Tadeas Cely**, Lenka Hrbkova, Matej Jungwirth. Structures in Our Heads: Collective Identities and Partisan Alignment in Eastern Europe \| *Under Review*
+Studying public opinion and polarization has led me to reflect on a persistent gap. Despite few substantial reasons, Central and Eastern European countries are often omitted from such studies. Very little is known about political conflict in this region, which lies adjacent to the often-studied Western Europe. Together with my co-authors, we set out to fill this gap.
 
-2)  Lenka Hrbkova, **Tadeas Cely**, Matej Jungwirth. Eastern Ideologies: Change and Heterogeneity in Belief Alignment in Central and Eastern Europe \| *Under Review*
+1)  Lenka Hrbkova, **Tadeas Cely**, Matej Jungwirth. Eastern Ideologies: Change and Heterogeneity in Belief Alignment in Central and Eastern Europe \| *Revise and Resubmit*
+
+2)  **Tadeas Cely**, Lenka Hrbkova, Matej Jungwirth. Structures in Our Heads: Collective Identities and Partisan Alignment in Eastern Europe \| *Under Review*
+
 
 ## Attitude Formation, Attention to Issues
 
-1)  **Tadeas Cely**, Roman Chytilek, Michal Toth. The Other People: Policy Abstractness and Attitude Formation among (Non-)Populists \| *Under Review*
+While working on the above-mentioned topics, I have also often considered how political communication and political beliefs intersect in the process of attitude formation.
 
-2)  Michal Toth, **Tadeas Cely**, Roman Chytilek. 2025. Facts Speak Louder? Comparing the Attention Effects of Moral and Factual Framing of Political Issues \|  **Accepted**,  *Electoral Studies*
+1)  Michal Toth, **Tadeas Cely**, Roman Chytilek. 2025. Facts Speak Louder? Comparing the Attention Effects of Moral and Factual Framing of Political Issues. *Electoral Studies*. [{{< iconify academicons doi size=1.2em title='DOI' >}}](https://doi.org/10.1016/j.electstud.2025.102996)
+
+2)  **Tadeas Cely**, Roman Chytilek, Michal Toth. The Other People: Policy Abstractness and Attitude Formation among (Non-)Populists \| *Under Review*
 
 
-## Other
+## Miscellaneous
 
 1) **Tadeas Cely**, Andrew Roberts. Trust in Political Scientists \| *Writing*
