@@ -21,7 +21,7 @@ My flagship research addresses the sources and consequences of deep-seated polit
 
 Alongside polarization, democratic backsliding is a severe political threat that endangers civil rights and social harmony. My work primarily focuses on the role of individuals—voters and citizens—in preventing such backsliding. I also study interventions that help citizens serve as more reliable safeguards of democracy.
 
-1)  **Tadeas Cely**, Marc Jacob, Sean Westwood. 2025. Levels of Office and Voter Accountability for Democratic Norm Violations. *Public Opinion Quarterly*.  [{{< iconify academicons open-access size=1.2em title='preprint' >}}](https://osf.io/preprints/psyarxiv/qt3wp_v1)
+1)  **Tadeas Cely**, Marc Jacob, Sean Westwood. 2025. Levels of Office and Voter Accountability for Democratic Norm Violations. Public Opinion Quarterly.  [{{< iconify academicons open-access size=1.2em title='preprint' >}}](https://osf.io/preprints/psyarxiv/qt3wp_v1) [{{< iconify academicons open-materials size=1.2em title='replication' >}}](https://doi.org/10.7910/DVN/87SZYD)
 
 2)  **Tadeas Cely**, Michal Tóth, Miroslav Nemčok, Peter Spáč. Democratic Cost of Politicizing Violent Events \| *Under Review*
 
@@ -34,6 +34,8 @@ Studying public opinion and polarization has led me to reflect on a persistent g
 
 2)  **Tadeas Cely**, Lenka Hrbkova, Matej Jungwirth. Structures in Our Heads: Collective Identities and Partisan Alignment in Eastern Europe \| *Under Review*
 
+3) **Tadeas Cely**, Andrew Roberts. Trust in Political Science Research \| *Under Review* \| [{{< iconify academicons open-access size=1.2em title='paper' >}}](https://osf.io/preprints/psyarxiv/wjqr3_v1)
+
 
 ## Attitude Formation, Attention to Issues
 
@@ -43,7 +45,3 @@ While working on the above-mentioned topics, I have also often considered how po
 
 2)  **Tadeas Cely**, Roman Chytilek, Michal Toth. The Other People: Policy Abstractness and Attitude Formation among (Non-)Populists \| *Under Review*
 
-
-## Miscellaneous
-
-1) **Tadeas Cely**, Andrew Roberts. Trust in Political Scientists \| *Writing*
