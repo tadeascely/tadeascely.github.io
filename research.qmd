@@ -32,7 +32,7 @@ Alongside polarization, democratic backsliding is a severe political threat that
 
 Studying public opinion and polarization has led me to reflect on a persistent gap. Despite few substantial reasons, Central and Eastern European countries are often omitted from such studies. Very little is known about political conflict in this region, which lies adjacent to the often-studied Western Europe. Together with my co-authors, we set out to fill this gap.
 
-1)  Lenka Hrbkova, **Tadeas Cely**, Matej Jungwirth. Eastern Ideologies: Change and Heterogeneity in Belief Alignment in Central and Eastern Europe \| *Public Opinion Quarterly*
+1)  Lenka Hrbkova, **Tadeas Cely**, Matej Jungwirth. Not Your Mama's Ideology (But Close): Modest Generational Differences in Ideological Alignment in Post-Communist Europe \| *Public Opinion Quarterly*
 
 2)  Michal Toth, **Tadeas Cely**, Roman Chytilek. 2025. Facts Speak Louder? Comparing the Attention Effects of Moral and Factual Framing of Political Issues. *Electoral Studies*. [{{< iconify academicons doi size=1.2em title='DOI' >}}](https://doi.org/10.1016/j.electstud.2025.102996)
 
