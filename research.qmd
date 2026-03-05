@@ -38,6 +38,6 @@ Studying public opinion and polarization has led me to reflect on a persistent g
 
 3)  **Tadeas Cely**, Lenka Hrbkova, Matej Jungwirth. Structures in Our Heads: Collective Identities and Partisan Alignment in Eastern Europe \| *Under Review*
 
-4) **Tadeas Cely**, Andrew Roberts. Trust in Political Science Research \| *Under Review* \| [{{< iconify academicons open-access size=1.2em title='paper' >}}](https://osf.io/preprints/psyarxiv/wjqr3_v1) [{{< iconify iconoir presentation size=1.2em title='slides' >}}](https://tadeascely.github.io/pst)
+4) **Tadeas Cely**, Andrew Roberts. Trust in Political Science Research \| *Under Review* \| [{{< iconify academicons open-access size=1.2em title='paper' >}}](https://osf.io/preprints/psyarxiv/wjqr3_v1) [{{< iconify iconoir presentation size=1.2em title='slides' >}}](https://tadeascely.github.io/pst) [{{< iconify circle-flags cz size=1.2em title='cz' >}}](https://tadeascely.github.io/pst_cz.html)
 
 
