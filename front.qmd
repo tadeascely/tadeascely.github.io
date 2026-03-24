@@ -1,21 +1,38 @@
 ---
-title: "Hi, it's Tadeas Cely"
+title: "Tadeas Cely"
+subtitle: "Postdoctoral Researcher · Aarhus University"
 about:
-  template: jolla
+  template: trestles
   image: pictures/photo2.jpg
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:tadeascely@ps.au.dk
+    - text: CV
+      icon: file-pdf
+      href: Tadeáš_Celý___Curriculum_Vitae.pdf
 ---
 
-I am a postdoctoral researcher at Aarhus University, where I work on the project *Advertising Democracy*. My research focuses on political disagreement and its democratic resolution. I aim to explain political complexity, with particular interest in belief systems and the interdependence among attitudes, to address some of today’s most pressing issues. Committed to promoting constructive peaceful politics and countering democratic backsliding, I focus on the politics of Western democracies, including those of Central and Eastern Europe.
+I am a postdoctoral researcher at Aarhus University, where I work on the project *Advertising Democracy*. My research focuses on political disagreement and its democratic resolution — explaining political complexity through belief systems and the interdependence among attitudes, to address some of today's most pressing issues. I am committed to promoting constructive, peaceful politics and countering democratic backsliding, with a focus on Western democracies including those of Central and Eastern Europe.
 
-While my family and friends kept me rooted in the Czech Republic (*Masaryk University*, Brno) during my studies, I greatly benefited from several fellowships. As an AKTION fellow, I spent half a year at the Department of Government, *University of Vienna*. Through a Fulbright Fellowship, I joined a stimulating research group in the Polarization Research Lab, spending almost a year at *Dartmouth College*. Later, I also spent a significant period at the Department of Political Science, *University of Zurich*.
+## Formative Experiences
 
-Most recently, I was awarded an EPOVB Early-Career Fellowship (APSA). I also received the Jacques Rupnik Prize, given to a junior scholar presenting on political behavior in the CEE region at the European University Institute, and the Vice-Rector’s Award for Excellent PhD Students at Masaryk University.
+**Aarhus University** · Postdoctoral Researcher · *current*
+: EPOVB Early-Career Fellowship (APSA)
 
-My dissertation research has been published in the European Journal of Political Research, Political Behavior, and European Union Politics. Co-authored studies are forthcoming in Public Opinion Quarterly and Electoral Studies.
+**University of Zurich** · Visiting Researcher · Department of Political Science
 
-I am married and have one child. In my free time, I enjoy hiking, cycling, camping, and other outdoor activities. I also occasionally play the violin and enjoy reading.
+**Dartmouth College** · Fulbright Fellow · Polarization Research Lab · Department of Government
 
-If you share any of my interests, please don’t hesitate to reach out at **tadeascely (at) ps.au.dk**. I am particularly open to junior scholars from underrepresented groups and regions.
+**University of Vienna** · AKTION Fellow · Department of Government
 
-There's a [document CV](Tadeáš_Celý___Curriculum_Vitae.pdf) for more.
+**Masaryk University** · PhD studies in Czechia
+: Jacques Rupnik Prize (EUI) · Vice-Rector's Award for Excellent PhD Students
 
+## Publications
+
+Dissertation research published in the *European Journal of Political Research*, *Political Behavior*, and *European Union Politics*. Co-authored studies forthcoming in *Public Opinion Quarterly* and *Electoral Studies*.
+
+## Personal
+
+I am married with one child. Outside of work I enjoy hiking, cycling, camping, and occasionally playing the violin. If you share any of my interests, feel free to reach out — I am particularly open to junior scholars from underrepresented groups and regions.

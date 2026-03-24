@@ -1,0 +1,306 @@
+
+<style>
+  .foundation { margin-bottom: 1.5rem; border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); overflow: hidden; }
+  .found-header { display: flex; align-items: center; gap: 10px; padding: 10px 14px; border-bottom: 0.5px solid var(--color-border-tertiary); }
+  .found-label { font-size: 21px; font-weight: 500; color: var(--color-text-primary); }
+  .found-desc { font-size: 17px; color: var(--color-text-secondary); margin-left: auto; }
+  .poles { display: grid; grid-template-columns: 1fr 1fr; }
+  .pole { padding: 12px 18px; }
+  .pole-pos { border-right: 0.5px solid var(--color-border-tertiary); }
+  .pole-label { font-size: 16px; font-weight: 500; letter-spacing: .04em; text-transform: uppercase; margin-bottom: 8px; }
+  .pos-label { color: #3B6D11; }
+  .neg-label { color: #A32D2D; }
+  .tags { display: flex; flex-wrap: wrap; gap: 5px; }
+  .tag { font-size: 17px; padding: 4px 11px; border-radius: 20px; line-height: 1.5; }
+  .tag-pos { background: #EAF3DE; color: #27500A; }
+  .tag-neg { background: #FCEBEB; color: #501313; }
+  .accent { width: 4px; height: 28px; border-radius: 2px; flex-shrink: 0; }
+  @media (prefers-color-scheme: dark) {
+    .tag-pos { background: #1a2e10; color: #C0DD97; }
+    .tag-neg { background: #2e1010; color: #F7C1C1; }
+    .pos-label { color: #97C459; }
+    .neg-label { color: #E24B4A; }
+  }
+</style>
+
+<div style="padding: 1rem 0;">
+
+  <!-- Care/Harm -->
+  <div class="foundation">
+    <div class="found-header">
+      <div class="accent" style="background:#3B8BD4"></div>
+      <span class="found-label">Care / Harm</span>
+      <span class="found-desc">Protecting others from suffering</span>
+    </div>
+    <div class="poles">
+      <div class="pole pole-pos">
+        <div class="pole-label pos-label">Positive</div>
+        <div class="tags">
+          <span class="tag tag-pos">compassion</span>
+          <span class="tag tag-pos">empathy</span>
+          <span class="tag tag-pos">sympathy</span>
+          <span class="tag tag-pos">caring</span>
+          <span class="tag tag-pos">nurturing</span>
+          <span class="tag tag-pos">healing</span>
+          <span class="tag tag-pos">merciful</span>
+          <span class="tag tag-pos">benevolent</span>
+          <span class="tag tag-pos">altruistic</span>
+          <span class="tag tag-pos">selfless</span>
+          <span class="tag tag-pos">loving</span>
+          <span class="tag tag-pos">humane</span>
+          <span class="tag tag-pos">humanitarian</span>
+          <span class="tag tag-pos">charitable</span>
+        </div>
+      </div>
+      <div class="pole">
+        <div class="pole-label neg-label">Negative</div>
+        <div class="tags">
+          <span class="tag tag-neg">harm</span>
+          <span class="tag tag-neg">suffering</span>
+          <span class="tag tag-neg">neglect</span>
+          <span class="tag tag-neg">cruel</span>
+          <span class="tag tag-neg">brutal</span>
+          <span class="tag tag-neg">abusive</span>
+          <span class="tag tag-neg">violent</span>
+          <span class="tag tag-neg">merciless</span>
+          <span class="tag tag-neg">exploit</span>
+          <span class="tag tag-neg">torture</span>
+          <span class="tag tag-neg">malicious</span>
+          <span class="tag tag-neg">hostile</span>
+          <span class="tag tag-neg">dangerous</span>
+          <span class="tag tag-neg">oppressive</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Fairness/Cheating -->
+  <div class="foundation">
+    <div class="found-header">
+      <div class="accent" style="background:#1D9E75"></div>
+      <span class="found-label">Fairness / Cheating</span>
+      <span class="found-desc">Reciprocity, justice, equal treatment</span>
+    </div>
+    <div class="poles">
+      <div class="pole pole-pos">
+        <div class="pole-label pos-label">Positive</div>
+        <div class="tags">
+          <span class="tag tag-pos">fair</span>
+          <span class="tag tag-pos">justice</span>
+          <span class="tag tag-pos">equal</span>
+          <span class="tag tag-pos">equitable</span>
+          <span class="tag tag-pos">honest</span>
+          <span class="tag tag-pos">egalitarian</span>
+          <span class="tag tag-pos">justified</span>
+          <span class="tag tag-pos">sincere</span>
+          <span class="tag tag-pos">candid</span>
+          <span class="tag tag-pos">evenhanded</span>
+          <span class="tag tag-pos">inclusive</span>
+          <span class="tag tag-pos">truth</span>
+          <span class="tag tag-pos">veracity</span>
+        </div>
+      </div>
+      <div class="pole">
+        <div class="pole-label neg-label">Negative</div>
+        <div class="tags">
+          <span class="tag tag-neg">unfair</span>
+          <span class="tag tag-neg">unjust</span>
+          <span class="tag tag-neg">dishonest</span>
+          <span class="tag tag-neg">biased</span>
+          <span class="tag tag-neg">discrimination</span>
+          <span class="tag tag-neg">prejudice</span>
+          <span class="tag tag-neg">bigotry</span>
+          <span class="tag tag-neg">inequality</span>
+          <span class="tag tag-neg">mendacious</span>
+          <span class="tag tag-neg">false</span>
+          <span class="tag tag-neg">injustice</span>
+          <span class="tag tag-neg">exclusion</span>
+          <span class="tag tag-neg">chauvinism</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Loyalty/Betrayal -->
+  <div class="foundation">
+    <div class="found-header">
+      <div class="accent" style="background:#BA7517"></div>
+      <span class="found-label">Loyalty / Betrayal</span>
+      <span class="found-desc">Group cohesion, solidarity, fidelity</span>
+    </div>
+    <div class="poles">
+      <div class="pole pole-pos">
+        <div class="pole-label pos-label">Positive</div>
+        <div class="tags">
+          <span class="tag tag-pos">loyal</span>
+          <span class="tag tag-pos">patriotic</span>
+          <span class="tag tag-pos">devoted</span>
+          <span class="tag tag-pos">faithful</span>
+          <span class="tag tag-pos">solidarity</span>
+          <span class="tag tag-pos">steadfast</span>
+          <span class="tag tag-pos">comradeship</span>
+          <span class="tag tag-pos">unity</span>
+          <span class="tag tag-pos">fidelity</span>
+          <span class="tag tag-pos">fraternal</span>
+          <span class="tag tag-pos">devoted</span>
+          <span class="tag tag-pos">allegiance</span>
+        </div>
+      </div>
+      <div class="pole">
+        <div class="pole-label neg-label">Negative</div>
+        <div class="tags">
+          <span class="tag tag-neg">betray</span>
+          <span class="tag tag-neg">treason</span>
+          <span class="tag tag-neg">traitor</span>
+          <span class="tag tag-neg">treacherous</span>
+          <span class="tag tag-neg">disloyal</span>
+          <span class="tag tag-neg">deceive</span>
+          <span class="tag tag-neg">apostasy</span>
+          <span class="tag tag-neg">perfidious</span>
+          <span class="tag tag-neg">backstabber</span>
+          <span class="tag tag-neg">turncoat</span>
+          <span class="tag tag-neg">infidelity</span>
+          <span class="tag tag-neg">conspire</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Authority/Subversion -->
+  <div class="foundation">
+    <div class="found-header">
+      <div class="accent" style="background:#7F77DD"></div>
+      <span class="found-label">Authority / Subversion</span>
+      <span class="found-desc">Respect for hierarchy, tradition, leadership</span>
+    </div>
+    <div class="poles">
+      <div class="pole pole-pos">
+        <div class="pole-label pos-label">Positive</div>
+        <div class="tags">
+          <span class="tag tag-pos">obedient</span>
+          <span class="tag tag-pos">dutiful</span>
+          <span class="tag tag-pos">respectful</span>
+          <span class="tag tag-pos">lawful</span>
+          <span class="tag tag-pos">traditional</span>
+          <span class="tag tag-pos">deference</span>
+          <span class="tag tag-pos">revere</span>
+          <span class="tag tag-pos">venerate</span>
+          <span class="tag tag-pos">uphold</span>
+          <span class="tag tag-pos">hierarchical</span>
+          <span class="tag tag-pos">allegiant</span>
+          <span class="tag tag-pos">serve</span>
+        </div>
+      </div>
+      <div class="pole">
+        <div class="pole-label neg-label">Negative</div>
+        <div class="tags">
+          <span class="tag tag-neg">defiant</span>
+          <span class="tag tag-neg">rebellious</span>
+          <span class="tag tag-neg">subversive</span>
+          <span class="tag tag-neg">disobedient</span>
+          <span class="tag tag-neg">seditious</span>
+          <span class="tag tag-neg">lawless</span>
+          <span class="tag tag-neg">disrespectful</span>
+          <span class="tag tag-neg">insubordinate</span>
+          <span class="tag tag-neg">insurgent</span>
+          <span class="tag tag-neg">heretical</span>
+          <span class="tag tag-neg">blasphemous</span>
+          <span class="tag tag-neg">usurp</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Sanctity/Degradation -->
+  <div class="foundation">
+    <div class="found-header">
+      <div class="accent" style="background:#D85A30"></div>
+      <span class="found-label">Sanctity / Degradation</span>
+      <span class="found-desc">Purity, divinity, disgust at contamination</span>
+    </div>
+    <div class="poles">
+      <div class="pole pole-pos">
+        <div class="pole-label pos-label">Positive</div>
+        <div class="tags">
+          <span class="tag tag-pos">pure</span>
+          <span class="tag tag-pos">holy</span>
+          <span class="tag tag-pos">sacred</span>
+          <span class="tag tag-pos">divine</span>
+          <span class="tag tag-pos">chaste</span>
+          <span class="tag tag-pos">wholesome</span>
+          <span class="tag tag-pos">stainless</span>
+          <span class="tag tag-pos">pious</span>
+          <span class="tag tag-pos">virtuous</span>
+          <span class="tag tag-pos">blessed</span>
+          <span class="tag tag-pos">repentant</span>
+          <span class="tag tag-pos">sinless</span>
+          <span class="tag tag-pos">impeccable</span>
+        </div>
+      </div>
+      <div class="pole">
+        <div class="pole-label neg-label">Negative</div>
+        <div class="tags">
+          <span class="tag tag-neg">sinful</span>
+          <span class="tag tag-neg">profane</span>
+          <span class="tag tag-neg">filthy</span>
+          <span class="tag tag-neg">impure</span>
+          <span class="tag tag-neg">depraved</span>
+          <span class="tag tag-neg">obscene</span>
+          <span class="tag tag-neg">wicked</span>
+          <span class="tag tag-neg">desecrate</span>
+          <span class="tag tag-neg">corrupt</span>
+          <span class="tag tag-neg">debase</span>
+          <span class="tag tag-neg">perverse</span>
+          <span class="tag tag-neg">unholy</span>
+          <span class="tag tag-neg">disgust</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- General moral valence -->
+  <div class="foundation">
+    <div class="found-header">
+      <div class="accent" style="background:#888780"></div>
+      <span class="found-label">General moral valence</span>
+      <span class="found-desc">Cross-foundation condemnation &amp; praise</span>
+    </div>
+    <div class="poles">
+      <div class="pole pole-pos">
+        <div class="pole-label pos-label">Positive</div>
+        <div class="tags">
+          <span class="tag tag-pos">righteous</span>
+          <span class="tag tag-pos">noble</span>
+          <span class="tag tag-pos">principled</span>
+          <span class="tag tag-pos">exemplary</span>
+          <span class="tag tag-pos">blameless</span>
+          <span class="tag tag-pos">ethical</span>
+          <span class="tag tag-pos">virtue</span>
+          <span class="tag tag-pos">goodness</span>
+          <span class="tag tag-pos">laudable</span>
+          <span class="tag tag-pos">worthy</span>
+          <span class="tag tag-pos">upstanding</span>
+          <span class="tag tag-pos">liberty</span>
+        </div>
+      </div>
+      <div class="pole">
+        <div class="pole-label neg-label">Negative</div>
+        <div class="tags">
+          <span class="tag tag-neg">evil</span>
+          <span class="tag tag-neg">immoral</span>
+          <span class="tag tag-neg">shame</span>
+          <span class="tag tag-neg">condemn</span>
+          <span class="tag tag-neg">guilty</span>
+          <span class="tag tag-neg">outrage</span>
+          <span class="tag tag-neg">hypocrisy</span>
+          <span class="tag tag-neg">worthless</span>
+          <span class="tag tag-neg">abhorrent</span>
+          <span class="tag tag-neg">dehumanize</span>
+          <span class="tag tag-neg">demonize</span>
+          <span class="tag tag-neg">unforgivable</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
