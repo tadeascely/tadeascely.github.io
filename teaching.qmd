@@ -6,7 +6,12 @@ title: "Teaching"
 
 ### Lecturing
 
-**Political Psychology** (2025): Co-teaching (*50%*) a graduate-level course introducing students to contemporary research in political psychology. All lectures are conducted in English. Topics covered include:
+**Political Persuasion** (2026): MA seminar at *Aarhus University* which will be taught in Fall.
+
+*Tentative Syllabus* [{{< iconify quill sort size=1.2em title='syllabus' >}}](https://drive.google.com/file/d/1A0yovT7GAaowuUi8fCtl7uQcdNcn2klR/view?usp=sharing)
+
+
+**Political Psychology** (2025): Co-teaching (*50%*) a MA course at *Masaryk University* introducing students to contemporary research in political psychology. All lectures are conducted in English. Topics covered include:
 
 -   Political Identity & Beliefs\
 -   Ideologies & Political Alliances\
@@ -14,7 +19,7 @@ title: "Teaching"
 -   Socialization & Social Networks\
 -   Morality in Politics
 
-*Syllabus* [{{< iconify quill sort size=1.2em title='syllabus' >}}](https://drive.google.com/file/d/1gJ8pkiGU140xKFNBrid_hh354O6kt93Z/view?usp=drive_link)
+*Syllabus* [{{< iconify quill sort size=1.2em title='syllabus' >}}](https://drive.google.com/file/d/1RhLhPDHJcd37JjBMCGLSz0JOAq4_R1vB/view?usp=sharing)
 
 
 ### Teaching Assistance

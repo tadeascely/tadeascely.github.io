@@ -12,7 +12,7 @@ My flagship research addresses the sources and consequences of deep-seated polit
 1)  **Tadeas Cely**. 2025. One More Constrained Than The Other: Asymmetrical Ideological Alignment and Its Implications for Polarization. European Journal of Political Research 64 (4): 1945-1973. [{{< iconify academicons open-access size=1.2em title='preprint' >}}](https://doi.org/10.1111/1475-6765.70016) 
 [{{< iconify academicons open-materials size=1.2em title='replication' >}}](https://github.com/tadeascely/one_more_constrained) [{{< iconify circle-flags cz size=1.2em title='cz' >}}](https://tadeascely.github.io/posts/PS.html)
 
-2)  **Tadeas Cely**. 2025. Hatred Takes An Ideologue: Recognizable Belief Patterns Lead to More Animosity and Disagreement. Political Behavior. [{{< iconify academicons open-access size=1.2em title='paper' >}}](https://doi.org/10.1007/s11109-025-10049-z) [{{< iconify academicons open-materials size=1.2em title='replication' >}}](https://github.com/tadeascely/ideologue)
+2)  **Tadeas Cely**. 2025. Hatred Takes An Ideologue: Recognizable Belief Patterns Lead to More Animosity and Disagreement. Political Behavior (Online First). [{{< iconify academicons open-access size=1.2em title='paper' >}}](https://doi.org/10.1007/s11109-025-10049-z) [{{< iconify academicons open-materials size=1.2em title='replication' >}}](https://github.com/tadeascely/ideologue)
 
 3)  **Tadeas Cely**. 2025. New Threat of Culture Wars? The Religious Roots of Public Opinion Polarization on Morality Issues in Europe. European Union Politics 26 (2): 226-254. [{{< iconify academicons open-access size=1.2em title='paper' >}}](https://doi.org/10.1177/14651165251320882)  [{{< iconify academicons open-materials size=1.2em title='replication' >}}](https://github.com/tadeascely/culture_wars) [{{< iconify circle-flags cz size=1.2em title='cz' >}}](https://tadeascely.github.io/posts/IP.html)
 
@@ -21,7 +21,9 @@ My flagship research addresses the sources and consequences of deep-seated polit
 
 Alongside polarization, democratic backsliding is a severe political threat that endangers civil rights and social harmony. My work primarily focuses on the role of individuals—voters and citizens—in preventing such backsliding. I also study interventions that help citizens serve as more reliable safeguards of democracy.
 
-1)  **Tadeas Cely**, Marc Jacob, Sean Westwood. 2025. Levels of Office and Voter Accountability for Democratic Norm Violations. Public Opinion Quarterly.  [{{< iconify academicons open-access size=1.2em title='preprint' >}}](https://osf.io/preprints/psyarxiv/qt3wp_v1) [{{< iconify academicons open-materials size=1.2em title='replication' >}}](https://doi.org/10.7910/DVN/87SZYD)
+1)  **Tadeas Cely**, Marc S Jacob, Sean J Westwood. 2026. Levels of Office and Voter Accountability for Democratic Norm Violations. Public Opinion Quarterly 90 (2): 310–335.  [{{< iconify academicons open-access size=1.2em title='preprint' >}}](https://osf.io/preprints/psyarxiv/qt3wp_v1) [{{< iconify academicons open-materials size=1.2em title='replication' >}}](https://doi.org/10.7910/DVN/87SZYD) [{{< iconify academicons doi size=1.2em title='DOI' >}}](https://doi.org/10.1093/poq/nfag004)
+
+
 
 2)  **Tadeas Cely**, Michal Tóth, Miroslav Nemčok, Peter Spáč. Democratic Cost of Politicizing Violent Events \| *Under Review* \| [{{< iconify iconoir presentation size=1.2em title='slides' >}}](https://tadeascely.github.io/sk)
 
@@ -32,12 +34,14 @@ Alongside polarization, democratic backsliding is a severe political threat that
 
 Studying public opinion and polarization has led me to reflect on a persistent gap. Despite few substantial reasons, Central and Eastern European countries are often omitted from such studies. Very little is known about political conflict in this region, which lies adjacent to the often-studied Western Europe. Together with my co-authors, we set out to fill this gap.
 
-1)  Lenka Hrbkova, **Tadeas Cely**, Matej Jungwirth. Not Your Mama's Ideology (But Close): Modest Generational Differences in Ideological Alignment in Post-Communist Europe \| *Public Opinion Quarterly*
+1)  Lenka Hrbkova, **Tadeas Cely**, Matej Jungwirth. 2026. Not Your Mama's Ideology (But Close): Modest Generational Differences in Ideological Alignment in Post-Communist Europe. Public Opinion Quarterly (*Forthcoming*). [{{< iconify academicons open-access size=1.2em title='preprint' >}}](https://doi.org/10.31234/osf.io/2wfk3_v1) [{{< iconify academicons open-materials size=1.2em title='replication' >}}]( https://doi.org/10.7910/DVN/PPWBKF) 
 
-2)  Michal Toth, **Tadeas Cely**, Roman Chytilek. 2025. Facts Speak Louder? Comparing the Attention Effects of Moral and Factual Framing of Political Issues. *Electoral Studies*. [{{< iconify academicons doi size=1.2em title='DOI' >}}](https://doi.org/10.1016/j.electstud.2025.102996)
+2)  Michal Toth, **Tadeas Cely**, Roman Chytilek. 2025. Facts Speak Louder? Comparing the Attention Effects of Moral and Factual Framing of Political Issues. Electoral Studies 98: 102996. [{{< iconify academicons doi size=1.2em title='DOI' >}}](https://doi.org/10.1016/j.electstud.2025.102996)
 
-3)  **Tadeas Cely**, Lenka Hrbkova, Matej Jungwirth. Structures in Our Heads: Collective Identities and Partisan Alignment in Eastern Europe \| *Under Review*
+3) **Tadeas Cely**, Andrew Roberts. Trust in Political Science Research \| *Revise and Resubmit* \| [{{< iconify academicons open-access size=1.2em title='paper' >}}](https://osf.io/preprints/psyarxiv/wjqr3_v1) [{{< iconify iconoir presentation size=1.2em title='slides' >}}](https://tadeascely.github.io/pst) [{{< iconify circle-flags cz size=1.2em title='cz' >}}](https://tadeascely.github.io/pst_cz.html)
 
-4) **Tadeas Cely**, Andrew Roberts. Trust in Political Science Research \| *Under Review* \| [{{< iconify academicons open-access size=1.2em title='paper' >}}](https://osf.io/preprints/psyarxiv/wjqr3_v1) [{{< iconify iconoir presentation size=1.2em title='slides' >}}](https://tadeascely.github.io/pst) [{{< iconify circle-flags cz size=1.2em title='cz' >}}](https://tadeascely.github.io/pst_cz.html)
+4)  **Tadeas Cely**, Lenka Hrbkova, Matej Jungwirth. Structures in Our Heads: Collective Identities and Partisan Alignment in Eastern Europe \| *Under Review*
+
+
 
 

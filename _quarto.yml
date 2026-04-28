@@ -25,8 +25,6 @@ website:
         href: service.qmd
         
     right:
-       - text: "Czech Political Science Study"
-         href: report.html
        - text: "{{< iconify bi github size=1.5em title='GitHub' >}}"
          href: https://github.com/tadeascely
          rel: me
