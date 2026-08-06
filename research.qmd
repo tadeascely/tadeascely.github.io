@@ -15,7 +15,7 @@ My flagship research addresses the sources and consequences of deep-seated polit
 [{{< iconify academicons open-materials size=1.2em title='replication' >}}](https://github.com/tadeascely/one_more_constrained) [{{< iconify circle-flags cz size=1.2em title='cz' >}}](https://tadeascely.github.io/posts/PS.html)
 
 3)  **Tadeas Cely**. 2025. New Threat of Culture Wars? The Religious Roots of Public Opinion Polarization on Morality Issues in Europe. European Union Politics 26 (2): 226-254. [{{< iconify academicons open-access size=1.2em title='paper' >}}](https://doi.org/10.1177/14651165251320882)  [{{< iconify academicons open-materials size=1.2em title='replication' >}}](https://github.com/tadeascely/culture_wars) [{{< iconify circle-flags cz size=1.2em title='cz' >}}](https://tadeascely.github.io/posts/IP.html)
-
+  
 
 ## Democratic Backsliding
 
