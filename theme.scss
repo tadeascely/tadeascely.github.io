@@ -1,0 +1,407 @@
+/*-- scss:defaults --*/
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600;8..60,700&display=swap");
+
+$navy:        #2f3e6b;
+$navy-light:  #4d5f99;
+$navy-pale:   #e7eaf3;
+$ink:         #1f2430;
+$muted:       #5d6474;
+$paper:       #ffffff;
+$card:        #f5f6fa;
+$rule:        #e3e6ee;
+
+$primary:     $navy;
+$body-bg:     $paper;
+$body-color:  $ink;
+$link-color:  $navy;
+$link-hover-color: $navy-light;
+$link-decoration: none;
+
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+$headings-font-family:   "Source Serif 4", Georgia, serif;
+$headings-font-weight:   600;
+$headings-color:         $ink;
+$font-size-root:         17px;
+$line-height-base:       1.65;
+
+$navbar-bg: rgba(255, 255, 255, 0.92);
+$navbar-fg: $ink;
+$navbar-hl: $navy;
+
+$border-radius: 0.5rem;
+$btn-border-radius: 999px;
+
+
+/*-- scss:rules --*/
+
+html {
+  scroll-padding-top: 5.5rem;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
+}
+
+/* ---------- Navbar ---------- */
+
+#quarto-header .navbar {
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid $rule;
+  box-shadow: none;
+}
+
+.navbar-title {
+  font-family: $headings-font-family;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+#navbarCollapse .navbar-nav:first-child .nav-link {
+  position: relative;
+  font-weight: 500;
+  color: $muted;
+  transition: color 0.2s ease;
+
+  &:hover { color: $navy; }
+
+  &.active {
+    color: $navy;
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0.5rem;
+      right: 0.5rem;
+      bottom: 0.15rem;
+      height: 2px;
+      border-radius: 2px;
+      background: $navy;
+    }
+  }
+}
+
+/* ---------- Hero ---------- */
+
+.hero {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 2.75rem;
+  align-items: center;
+  padding: 2.5rem 0 1rem;
+}
+
+.hero-photo {
+  p { margin: 0; }
+  img {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    box-shadow: 0 10px 30px rgba(31, 36, 48, 0.15);
+  }
+}
+
+.hero-badge {
+  display: inline-block;
+  padding: 0.2rem 0.75rem;
+  border-radius: 999px;
+  background: $navy-pale;
+  color: $navy;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.hero-name {
+  font-size: clamp(2.3rem, 5vw, 3.2rem);
+  font-weight: 700;
+  margin: 0.6rem 0 0.15rem;
+  line-height: 1.1;
+}
+
+.hero-subtitle {
+  display: block;
+  color: $muted;
+  font-size: 1.05rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.hero-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 1.25rem;
+
+  p { display: contents; }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    padding: 0.45rem 1.15rem;
+    border-radius: 999px;
+    font-weight: 500;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+    text-align: center;
+    padding-top: 1.5rem;
+  }
+  .hero-photo img { width: 160px; height: 160px; }
+  .hero-text > p { text-align: left; }
+  .hero-text > p:has(.hero-badge),
+  .hero-text > p:has(.hero-subtitle) { text-align: center; }
+  .hero-links { justify-content: center; }
+}
+
+/* ---------- Sections ---------- */
+
+section.level2 {
+  margin-top: 3.5rem;
+  padding-top: 2.5rem;
+  border-top: 1px solid $rule;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 1.25rem;
+  border-bottom: none;
+
+  &::before {
+    content: "";
+    display: block;
+    width: 2.5rem;
+    height: 3px;
+    border-radius: 3px;
+    background: $navy;
+    margin-bottom: 0.9rem;
+  }
+}
+
+h3 {
+  font-size: 1.3rem;
+  color: $navy;
+  margin-top: 2.25rem;
+  margin-bottom: 0.75rem;
+}
+
+/* ---------- Experience timeline ---------- */
+
+.timeline ul {
+  list-style: none;
+  margin: 1.5rem 0 0 0.4rem;
+  padding-left: 1.75rem;
+  border-left: 2px solid $navy-pale;
+
+  li {
+    position: relative;
+    margin-bottom: 1.1rem;
+
+    &:last-child { margin-bottom: 0; }
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: calc(-1.75rem - 8px);
+      top: 0.45em;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: $paper;
+      border: 3px solid $navy;
+    }
+
+    &:first-child::before { background: $navy; }
+
+    strong { color: $navy; }
+  }
+}
+
+.timeline-note {
+  color: $muted;
+  font-size: 0.92rem;
+}
+
+/* ---------- Personal: latest read / latest hike ---------- */
+
+.personal-cards {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+
+  @media (max-width: 575.98px) { grid-template-columns: 1fr; }
+}
+
+.personal-card {
+  background: $card;
+  border-radius: $border-radius;
+  overflow: hidden;
+
+  > p:first-child {
+    margin: 0;
+    height: 230px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  > p:last-child {
+    margin: 0;
+    padding: 0.85rem 1.1rem 1rem;
+    line-height: 1.45;
+    color: $muted;
+    strong { color: $ink; font-size: 1.05rem; }
+  }
+}
+
+.book-card > p:first-child {
+  padding: 1.1rem 0;
+  background: $navy-pale;
+  img {
+    height: 100%;
+    width: auto;
+    border-radius: 3px;
+    box-shadow: 0 6px 18px rgba(31, 36, 48, 0.25);
+  }
+}
+
+.hike-card > p:first-child {
+  a { display: block; width: 100%; height: 100%; }
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+  }
+  a:hover img { transform: scale(1.03); }
+}
+
+.card-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: $navy-light;
+}
+
+/* ---------- Publication lists ---------- */
+
+#research ol {
+  padding-left: 0;
+  list-style: none;
+  counter-reset: pub;
+
+  > li {
+    counter-increment: pub;
+    position: relative;
+    background: $card;
+    border: 1px solid transparent;
+    border-radius: $border-radius;
+    padding: 0.85rem 1.1rem 0.85rem 3rem;
+    margin-bottom: 0.75rem;
+    transition: box-shadow 0.2s ease, border-color 0.2s ease;
+
+    &::before {
+      content: counter(pub);
+      position: absolute;
+      left: 1.1rem;
+      top: 0.85rem;
+      font-family: $headings-font-family;
+      font-weight: 700;
+      color: $navy-light;
+    }
+
+    &:hover {
+      border-color: $rule;
+      box-shadow: 0 4px 14px rgba(31, 36, 48, 0.06);
+    }
+
+    p { margin: 0; }
+    strong { color: $navy; }
+
+    a {
+      display: inline-block;
+      margin-left: 0.15rem;
+      transition: transform 0.15s ease;
+      &:hover { transform: translateY(-2px); }
+    }
+  }
+}
+
+/* Job market paper: highlighted card above the publication lists */
+.jmp-card {
+  background: $navy-pale;
+  border-left: 4px solid $navy;
+  border-radius: $border-radius;
+  padding: 1rem 1.25rem;
+
+  p { margin: 0; }
+  strong { color: $navy; }
+}
+
+/* Folded abstracts (<details class="abstract">) */
+details.abstract {
+  margin: 0.45rem 0 0;
+
+  summary {
+    display: flex;
+    width: fit-content;
+    align-items: center;
+    gap: 0.35rem;
+    list-style: none;
+    cursor: pointer;
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: $muted;
+    opacity: 0.85;
+    user-select: none;
+
+    &::-webkit-details-marker { display: none; }
+
+    p { margin: 0; font-size: inherit; }
+
+    &::before {
+      content: "";
+      width: 0.45em;
+      height: 0.45em;
+      border-right: 1.5px solid currentColor;
+      border-bottom: 1.5px solid currentColor;
+      transform: rotate(-45deg);
+      transition: transform 0.2s ease;
+    }
+
+    &:hover { color: $navy; opacity: 1; }
+  }
+
+  &[open] summary::before { transform: rotate(45deg); }
+
+  > p {
+    margin: 0.6rem 0 0.2rem !important;
+    font-size: 0.93rem;
+    line-height: 1.6;
+    color: $muted;
+  }
+}
+
+/* ---------- Teaching ---------- */
+
+#teaching figure figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.88rem;
+  color: $muted;
+}
+
+/* ---------- Footer spacing ---------- */
+
+main.content { padding-bottom: 4rem; }

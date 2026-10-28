@@ -1,0 +1,54 @@
+### Instructor of Record
+
+**Psychology of Political Ideology** (2027): MA seminar at *Aarhus University* (10 ECTS), planned for Spring 2027. Interdisciplinary focus: besides political psychology, the course also engages with the study of institutions, history or political theory. Students work with public opinion and polling data and co-write one or two research manuscripts in class, aimed at publication. Topics include:
+
+- What it means to be an ideologue: sophistication, dogmatism, and personality
+- How ideas shape citizens' views of politics, including through emotion and morality
+- Imposed ideology: elite influence and the legacies of ideological regimes
+
+**Political Persuasion** (2026): MA seminar at *Aarhus University* (10 ECTS). Hands-on focus: students design their own persuasive interventions, play team games, and take part in lab demonstrations. Topics include:
+
+- Psychological, communicative, and emotional aspects of persuasion
+- Innovative methods in persuasion practice (e.g., audiovisual, algorithmic) and research (e.g., mock social media, eye-tracking, physiological measures)
+- Use of evidence, delivery modes, and experimental design
+
+*Syllabus* [{{< iconify quill sort size=1.2em title='syllabus' >}}](https://drive.google.com/file/d/1A0yovT7GAaowuUi8fCtl7uQcdNcn2klR/view?usp=sharing)
+
+**Guest lectured** as a week-long course at *Masaryk University* (3 ECTS), undergraduate level, October 2026. 
+
+*Examples of slides:*
+
+```{=html}
+<div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
+  <figure style="flex: 1 1 420px; margin: 0;">
+    <iframe loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://01a12a75-3949-0e37-58c5-71730e230c60.share.connect.posit.cloud/" title="Do Ads Work?" width="560" height="350" style="width: 100%; aspect-ratio: 16/10; height: auto; border: 1px solid #dee2e6; border-radius: 8px;" allowfullscreen></iframe>
+    <figcaption><strong>Do Ads Work?</strong> The psychology of attitudes and persuasion: how people form opinions, resist messages, and what that means for political campaigns (RAS model, motivated reasoning).</figcaption>
+  </figure>
+  <figure style="flex: 1 1 420px; margin: 0;">
+    <iframe loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://01a12a88-4854-a1dd-5c1f-b9a7b854ccbf.share.connect.posit.cloud/" title="Communication That Matters" width="560" height="350" style="width: 100%; aspect-ratio: 16/10; height: auto; border: 1px solid #dee2e6; border-radius: 8px;" allowfullscreen></iframe>
+    <figcaption><strong>Communication That Matters.</strong> Framing in political communication: what frames can achieve, frame strength, and episodic/thematic and loss/gain frames.</figcaption>
+  </figure>
+</div>
+```
+
+**Political Psychology** (2025): Co-teaching (*50%*) a MA course (5 ECTS) at *Masaryk University* (in English, incl. exchange students). Topics covered include:
+
+-   Political identity, beliefs
+-   Political ideologies, morality
+-   Political polarization
+-   Socialization, social networks
+
+*Syllabus* [{{< iconify quill sort size=1.2em title='syllabus' >}}](https://drive.google.com/file/d/1RhLhPDHJcd37JjBMCGLSz0JOAq4_R1vB/view?usp=sharing)
+
+
+### Teaching Assistance
+
+**Introduction to Political Science** (2022, 2023): Provided formative evaluations of position papers on key research themes in political science, such as the role of ideology and democratic theory. Led seminars on the essentials of conducting research, focusing on scientific principles and methods.
+
+**Contemporary Czech Politics** (2022): Introduced basic concepts in political sociology and party competition, including cleavage theory, political conflict, and populism. Led seminars that applied these theoretical frameworks to the interpretation of Czech political competition.
+
+**History of Czech Politics** (2023): Delivered seminar lectures reviewing the major events of Czech politics over the last century. Concluded with a practical session on the key social issues between the wars, including exercises on constitutional engineering.
+
+**Political Science Research Methods** (2022): Provided formative evaluations of research proposals and literature reviews.
+
+**Statistical Reasoning in Political Science** (2023): Assisted students with practical tasks related to distributions and measures of association.

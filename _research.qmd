@@ -1,0 +1,100 @@
+My research spans the fields of political psychology, communication and institutions.
+
+### Job Market Paper
+
+::: {.jmp-card}
+**Tadeas Cely**. Constrained by Partisan Morality: A Moral Account of Ideological Alignment. *Available upon request* [{{< iconify bi envelope size=1.2em title='request by email' >}}](mailto:tadeascely@ps.au.dk)
+
+<details class="abstract"><summary>Abstract</summary>
+
+Mass policy views are becoming increasingly factional: citizens' positions across issues ever more predictably fall on the liberal or conservative side. Despite its impact on the dynamics of disagreement, we lack a theoretical account of ideological alignment that would provide a personal motivation, conceptual boundaries or a psychological mechanism for it. In this paper, I advance and test a moral account of ideological alignment. Parties offer competing moral frames on policy, and citizens, driven by the need to see themselves as moral, respond to these partisan narratives. As a result, their beliefs become more consistent with one another and with their prior attachments. Using a comprehensive database of congressional e-newsletters (2010-2025, N = 164,750), I show that the moralization of policy is a growing communication strategy, used robustly and symmetrically by both parties. To obtain causal evidence, I expose citizens to either competing moral or competing instrumental frames. Two experiments varying the invoked moral intuitions, framed issues and downstream attitudes support the argument (N = 2,300, *second in progress*). Further causal exploration is consistent with the proposed mechanism. This study provides the first causal evidence of how elites can induce ideological alignment across many attitudes.
+
+</details>
+:::
+
+
+### Public Opinion Polarization
+
+My flagship research addresses the sources and consequences of deep-seated political disagreement across a broad range of issues. I show how such ideological disagreement shapes affective reactions and how beliefs are structured and constrained differently across European countries and partisan camps.
+
+1)  **Tadeas Cely**. 2026. Hatred Takes An Ideologue: Recognizable Belief Patterns Lead to More Animosity and Disagreement. Political Behavior 48: 773–797. [{{< iconify academicons open-access size=1.2em title='paper' >}}](https://doi.org/10.1007/s11109-025-10049-z) [{{< iconify academicons open-materials size=1.2em title='replication' >}}](https://github.com/tadeascely/ideologue)
+
+    <details class="abstract"><summary>Abstract</summary>
+
+    An expanding body of evidence indicates that substantive disagreement fuels political animosity. However, pundits often use terms like ‘ideological disagreement’ to describe a broad range of phenomena, diverging from how the concept is understood in classical Conversian literature on beliefs and their structures. This literature suggests that individuals do not uniformly hold or organize their opinions. Building on this foundation, I argue for a critical distinction between disagreements among ideologues—who are opinionated and aligned in their beliefs—and disagreements among others. I hypothesize that disagreements among ideologues result in higher expected disagreement and greater mutual animosity. To test this hypothesis, I conducted two survey experiments with representative U.S. samples (N = 2,000 each, in January 2024 and May 2024). Using evaluations of hypothetical profiles of fellow citizens, I demonstrate that opinionatedness and ideological alignment of beliefs significantly reduce interpersonal affinity in contexts of disagreement. In the first study, disagreements with centrists elicit nearly four times less animosity than disagreements with opinionated counterparts. Furthermore, ideological alignment generates almost three times more intense feelings at equivalent levels of substantive (dis)agreement. In the second study, I find that ideologically aligned individuals anticipate higher levels of disagreement with one another compared to non-ideologues, when they observe the same level of disagreement as them. This effect is particularly pronounced among ideologues capable of recognizing ideological patterns in others’ beliefs. These findings highlight the role of opinionatedness and recognizable belief structures, offering a new approach that is generalizable to other divided democracies.
+
+    </details>
+
+2)  **Tadeas Cely**. 2025. One More Constrained Than The Other: Asymmetrical Ideological Alignment and Its Implications for Polarization. European Journal of Political Research 64 (4): 1945-1973. [{{< iconify academicons open-access size=1.2em title='preprint' >}}](https://doi.org/10.1111/1475-6765.70016) 
+[{{< iconify academicons open-materials size=1.2em title='replication' >}}](https://github.com/tadeascely/one_more_constrained)
+
+    <details class="abstract"><summary>Abstract</summary>
+
+    This study examines the ideological alignment of beliefs within opposing partisan camps in Europe. Integrating multiple types of research, I hypothesize that partisans on the ideological left exhibit greater alignment in their beliefs compared to those on the right – an asymmetry that extends across various issues. I argue that on the scale of ideological contention, it matters if partisans on one ideological pole are more aligned in beliefs than those on the other. Only the less ideological of opposing camps determines the extent of mutual disagreement. Utilizing conventional methods and innovative belief network modelling, I analyse survey data from the fourth and eighth waves of the European Social Survey (2008, 2016). To test the hypothesis, I match partisans with the data on their party's ideology, covering partisans from 131 parties in 15 European countries to test this hypothesis. My findings reveal that, both at the European level and within national contexts, there is a broad and substantive asymmetry between the right and the left across ideological dimensions and issues. However, the study also uncovers the limits of this asymmetry, highlighting a significant shift in ideological alignment on sociocultural issues on the right, indicating the emergence of a deeper, broader ideological conflict in that dimension. Furthermore, my analysis demonstrates the marginal influence of strategies like position blurring and programmatic nicheness. These insights shed light on the nature of partisan contention in Europe and how it disproportionately depends on ideological alignment on the right.
+
+    </details>
+
+3)  **Tadeas Cely**. 2025. New Threat of Culture Wars? The Religious Roots of Public Opinion Polarization on Morality Issues in Europe. European Union Politics 26 (2): 226-254. [{{< iconify academicons open-access size=1.2em title='paper' >}}](https://doi.org/10.1177/14651165251320882)  [{{< iconify academicons open-materials size=1.2em title='replication' >}}](https://github.com/tadeascely/culture_wars)
+
+    <details class="abstract"><summary>Abstract</summary>
+
+    Cultural polarization divides European public opinion on moral issues, from Italy’s refusal to register children of same-sex couples to abortion protests in Poland. These divisions stem from historical church-state conflicts in various religious cultures. This polarization is particularly strong in Catholic countries but less so in Protestant ones. Using data from 19 European democracies, I show a persistent gap between Catholic and Protestant countries. On the other hand, I show a limited effect of economic prosperity. Developed countries no longer lead in moral issue divisions, with recent surveys showing no or reversed differences. Younger generations are no less principled on moral issues in the Catholic contexts, with cohort differences in polarization even growing significantly between 2008 and 2017, highlighting the enduring impact of religious traditions among younger cohorts.
+
+    </details>
+  
+
+### Democratic Backsliding
+
+Alongside polarization, democratic backsliding is a severe political threat that endangers civil rights and social harmony. My work primarily focuses on the role of individuals—voters and citizens—in preventing such backsliding. I also study interventions that help citizens serve as more reliable safeguards of democracy.
+
+1)  **Tadeas Cely**, Marc S Jacob, Sean J Westwood. 2026. Levels of Office and Voter Accountability for Democratic Norm Violations. Public Opinion Quarterly 90 (2): 310–335.  [{{< iconify academicons open-access size=1.2em title='preprint' >}}](https://osf.io/preprints/psyarxiv/qt3wp_v1) [{{< iconify academicons open-materials size=1.2em title='replication' >}}](https://doi.org/10.7910/DVN/87SZYD) [{{< iconify academicons doi size=1.2em title='DOI' >}}](https://doi.org/10.1093/poq/nfag004)
+
+    <details class="abstract"><summary>Abstract</summary>
+
+    Political candidates in the United States increasingly endorse antidemocratic actions across all levels of office, yet most research focuses on federal races. A key concern is that norm-violating candidates at lower levels may ascend to higher office, posing broader risks to democratic stability. This study examines whether voters are more or less likely to defect from copartisan norm violators at lower levels of office. Across two preregistered survey experiments with 5,000 US respondents, we find that defection rates remain consistent across local, state, and federal races, regardless of the number or type of violations. These findings suggest two interpretations: optimistically, voters are not more forgiving of norm violations in lower-level elections; pessimistically, even where the stakes appear lower, voters are also no more likely to hold norm violators accountable. Our results are consistent with the nationalization of voting behavior and the risk of a candidate pipeline that enables norm violators to rise unchecked.
+
+    </details>
+
+2)  **Tadeas Cely**, Michal Tóth, Miroslav Nemčok, Peter Spáč. Democratic Cost of Politicizing Violent Events \| *Revise and Resubmit* \| [{{< iconify iconoir presentation size=1.2em title='slides' >}}](https://tadeascely.github.io/sk)
+
+    <details class="abstract"><summary>Abstract</summary>
+
+    Acts of political violence are increasingly instrumentalized by elites, who recast non-partisan events as partisan cues to gain political advantage. We examine the downstream effects of such politicization using the 2024 assassination attempt on Slovak Prime Minister Robert Fico, which the governing coalition framed as the work of the opposition despite the absence of supporting evidence. Drawing on nationally representative survey with an embedded experiment (N = 1,358), we investigate whether elite politicization shapes three outcomes: support for political violence, affective polarization, and democratic norms. Adoption of politicized narratives diffuses along partisan lines, in line with elite cue-taking. Politicized narratives voiced by out-partisans deepen affective polarization and heighten support for restricting their free speech; identical narratives voiced by co-partisans do not. We find no evidence, however, that politicization translates into greater support for political violence. The democratic costs of politicization in Slovakia operate through affective polarization and norm erosion rather than through the legitimation of violence itself.
+
+    </details>
+
+
+### Comparative Political Behavior
+
+Studying public opinion and polarization has led me to reflect on a persistent gap. Despite few substantial reasons, Central and Eastern European countries are often omitted from such studies. Very little is known about political conflict in this region, which lies adjacent to the often-studied Western Europe. Together with my co-authors, we set out to fill this gap.
+
+1) **Tadeas Cely**, Andrew Roberts. 2026. Signaling Good Practice: Trust in Political Science in Emerging Contexts. Forthcoming in *PS: Political Science & Politics*. [{{< iconify academicons open-access size=1.2em title='paper' >}}](https://osf.io/preprints/psyarxiv/wjqr3_v1) [{{< iconify iconoir presentation size=1.2em title='slides' >}}](https://tadeascely.github.io/pst) [{{< iconify circle-flags cz size=1.2em title='cz' >}}](https://tadeascely.github.io/pst_cz.html)
+
+    <details class="abstract"><summary>Abstract</summary>
+
+    Communicating the credibility of political science research to the public is a pressing challenge with tangible consequences for the field’s social impact and legitimacy. Yet we know little about the determinants of trust in political science or how to increase trust, especially in contexts where the discipline is weakly institutionalized and enjoys limited visibility. Drawing on surveys of a representative public sample (N = 1,530) and practicing political scientists (N = 113) in the Czech Republic, we combine observational and experimental evidence on the roots of trust. We find that public trust in political scientists is only modestly stratified along ideological or sociodemographic lines, and thus diversifying the researcher profile offers limited returns. Partisan motivated reasoning, however, remains a stubborn obstacle. Our experimental results show that signals of methodological rigor and transparency substantially boost perceived trustworthiness even for findings opposed to the subject’s partisanship, an effect that political scientists themselves systematically underestimate. We argue that political science should actively cultivate and institutionally encourage such signals.
+
+    </details>
+
+
+2)  Lenka Hrbkova, **Tadeas Cely**, Matej Jungwirth. 2026. Not Your Mama's Ideology (But Close): Modest Generational Differences in Ideological Alignment in Post-Communist Europe. Public Opinion Quarterly 90 (SI): 1084–1113. [{{< iconify academicons open-access size=1.2em title='paper' >}}](https://doi.org/10.1093/poq/nfag041) [{{< iconify academicons open-materials size=1.2em title='replication' >}}]( https://doi.org/10.7910/DVN/PPWBKF) 
+
+    <details class="abstract"><summary>Abstract</summary>
+
+    This paper examines whether generational change in Central and Eastern Europe (CEE) is associated with shifts in how political attitudes align along the conventional economic–cultural left–right dimension. Because cohorts in the region were socialized under different political–economic systems, CEE provides a setting to assess whether younger generations display patterns of attitude alignment that differ from those of older cohorts. Using pooled European Social Survey data (2004–2023) and original surveys from Czechia, Hungary, and Lithuania, we combine an age–period–cohort analysis of left–right alignment with a network analysis of associations among thirteen salient issues. We find modest generational differences in the early 2000s, but these diminish over time, with all cohorts exhibiting similarly low levels of left–right alignment. Economic and cultural attitudes remain weakly connected, and EU- and foreign-policy issues often form separate clusters. The findings indicate that generational replacement has not produced a shift toward a more conventional left–right organization of belief systems in the region.
+
+    </details>
+
+3)  Michal Toth, **Tadeas Cely**, Roman Chytilek. 2025. Facts Speak Louder? Comparing the Attention Effects of Moral and Factual Framing of Political Issues. Electoral Studies 98: 102996. [{{< iconify academicons doi size=1.2em title='DOI' >}}](https://doi.org/10.1016/j.electstud.2025.102996)
+
+    <details class="abstract"><summary>Abstract</summary>
+
+    The media and political actors play a crucial role in shaping public attention, not only by selecting which issues to highlight but also by framing them in ways that influence public perception and engagement. Given the increasing prominence of moralized discourse in political communication, we examine whether moral framing is more effective in capturing public attention compared to factual framing, which relies on empirical evidence and rational argumentation. To examine this question, we conducted two preregistered experimental studies using different methods to measure attention: an eye-tracking experiment (N = 99) and a large-scale online survey (N = 1563). Participants were exposed to political issues that are not predominantly associated with either type of framing and were randomly assigned to conditions where the issues were framed either morally or factually. Our findings indicate that moral framing does not consistently attract more attention than factual framing. In fact, in some situations, factual frames were associated with slightly higher levels of audience attention. Understanding these dynamics is crucial in an age of information overload, when competition for public attention is intense and public debate is often dominated by emotional or value-driven messages. Additionally, our research contributes to ongoing debates about the implications of moral framing, particularly its potential to polarize audiences or divert attention from evidence-based decision-making.
+
+    </details>
+
+4)  **Tadeas Cely**, Lenka Hrbkova, Matej Jungwirth. Structures in Our Heads: Collective Identities and Partisan Alignment in Eastern Europe \| *Under Review*
+
+
+
+

@@ -1,40 +1,82 @@
 ---
-title: "Tadeas Cely"
-subtitle: "Postdoctoral Researcher · Aarhus University"
-about:
-  template: trestles
-  image: pictures/photo2.jpg
-  links:
-    - text: Email
-      icon: envelope
-      href: mailto:tadeascely@ps.au.dk
-    - text: CV
-      icon: file-pdf
-      href: Tadeáš_Celý___Curriculum_Vitae.pdf
+pagetitle: "Tadeas Cely"
+description: "Postdoctoral Researcher in political science at Aarhus University"
+toc: false
+include-after-body: _scrollspy.html
 ---
+
+::: {#home .hero}
+
+::: {.hero-photo}
+![](pictures/photo2.jpg){fig-alt="Portrait of Tadeas Cely"}
+:::
+
+::: {.hero-text}
+[On the job market]{.hero-badge}
+
+```{=html}
+<h1 class="hero-name">Tadeas Cely</h1>
+```
+
+[Postdoctoral Researcher · Aarhus University]{.hero-subtitle}
 
 I am a postdoctoral researcher at Aarhus University, where I work on the project *Advertising Democracy*. My research focuses on political disagreement and its democratic resolution — explaining political complexity through belief systems and the interdependence among attitudes, to address some of today's most pressing issues. I am committed to promoting constructive, peaceful politics and countering democratic backsliding, with a focus on Western democracies including those of Central and Eastern Europe.
 
-**On the job market**
+::: {.hero-links}
+[{{< iconify bi envelope >}} Email](mailto:tadeascely@ps.au.dk){.btn .btn-primary}
+[{{< iconify bi file-earmark-pdf >}} CV](Tadeáš_Celý___Curriculum_Vitae.pdf){.btn .btn-outline-primary}
+:::
+:::
 
-## Formative Experiences
+:::
 
-**Aarhus University** · Postdoctoral Researcher · *current*
-: EPOVB Early-Career Fellowship (APSA)
+## Formative Experiences {#experience}
 
-**University of Zurich** · Visiting Researcher · Department of Political Science
+::: {.timeline}
+- **Aarhus University** · Postdoctoral Researcher · *current*\
+  [EPOVB Early-Career Fellowship (APSA)]{.timeline-note}
+- **University of Zurich** · Visiting Researcher\
+  [Department of Political Science]{.timeline-note}
+- **Dartmouth College** · Fulbright Fellow\
+  [Polarization Research Lab · Department of Government]{.timeline-note}
+- **University of Vienna** · AKTION Fellow\
+  [Department of Government]{.timeline-note}
+- **Masaryk University** · PhD studies in Czechia\
+  [Jacques Rupnik Prize (EUI) · Vice-Rector's Award for Excellent PhD Students]{.timeline-note}
+:::
 
-**Dartmouth College** · Fulbright Fellow · Polarization Research Lab · Department of Government
-
-**University of Vienna** · AKTION Fellow · Department of Government
-
-**Masaryk University** · PhD studies in Czechia
-: Jacques Rupnik Prize (EUI) · Vice-Rector's Award for Excellent PhD Students
-
-## Publications
-
-Dissertation research published in the *European Journal of Political Research*, *Political Behavior*, and *European Union Politics*. Co-authored studies forthcoming in *Public Opinion Quarterly* and *Electoral Studies*.
-
-## Personal
+### Personal
 
 I am married with one child. Outside of work I enjoy hiking, cycling, camping, and occasionally playing the violin. If you share any of my interests, feel free to reach out — I am particularly open to junior scholars from underrepresented groups and regions.
+
+::: {.personal-cards}
+
+::: {.personal-card .book-card}
+![](https://covers.openlibrary.org/b/isbn/9780802123459-L.jpg){fig-alt="Cover of The Sympathizer by Viet Thanh Nguyen"}
+
+[Latest read]{.card-label}\
+**The Sympathizer**\
+Viet Thanh Nguyen
+:::
+
+::: {.personal-card .hike-card}
+[![](pictures/knutshoe.jpg){fig-alt="View from Knutshøe over a winding river, Øvre Leirungen and lake Gjende in Jotunheimen"}](pictures/knutshoe.jpg)
+
+[Latest hike]{.card-label}\
+**Knutshøe**\
+Jotunheimen, Norway
+:::
+
+:::
+
+## Research {#research}
+
+{{< include _research.qmd >}}
+
+## Teaching {#teaching}
+
+{{< include _teaching.qmd >}}
+
+## Service {#service}
+
+{{< include _service.qmd >}}

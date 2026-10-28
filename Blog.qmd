@@ -1,8 +1,0 @@
----
-title: "Reporty o politické polarizaci"
-listing:
-  contents: posts
-  type: grid
----
-
-Zde naleznete shrnuté a pro veřejnost prezentované výsledky mojí výzkumné práce (v některých případech ve spolupráci s dalšími). Všechny tyto reporty se týkají nějakým způsobem **politické polarizace**, **politických postojů**, či **politických identit**. Všechen výzkum je již publikován v recenzovaných časopisech.
